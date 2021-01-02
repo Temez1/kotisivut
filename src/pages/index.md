@@ -10,7 +10,7 @@ sections:
       meikäläisestä sekä yhteystietoni. Voit myös lukea lyhyen historiani.
     actions:
       - label: Lyhyt Historiani
-        url: about/
+        url: lyhyt-historiani
         style: button
         icon_class: ''
         new_window: false
