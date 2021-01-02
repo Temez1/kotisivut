@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Tervetuloa
     content: >-
-      Nettisivuiltani löydät viimeaikaisia töitäni, blogin, yleistietoa
-      meikäläisestä sekä yhteystiedot.
+      Nettisivuiltani löydät viimeaikaisia projektejani, blogin, yleistietoa
+      meikäläisestä sekä yhteystietoni.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
