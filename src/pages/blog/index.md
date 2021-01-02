@@ -1,7 +1,7 @@
 ---
 title: Blogi
 subtitle: ''
-hide_title: false
+hide_title: true
 col_number: three
 template: blog
 excerpt: jköklö
