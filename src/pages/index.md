@@ -8,13 +8,7 @@ sections:
     content: >-
       Nettisivuiltani löydät viimeaikaisia töitäni, blogin, yleistietoa
       meikäläisestä sekä yhteystiedot.
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
