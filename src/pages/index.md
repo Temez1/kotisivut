@@ -11,7 +11,7 @@ sections:
     actions: []
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Viimeaikaisia projekteja
     subtitle: ''
     projects_number: 6
