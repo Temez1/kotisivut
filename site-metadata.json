@@ -44,7 +44,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
+                "label": "Linkki mun twitter ",
                 "url": "https://twitter.com/temez1",
                 "style": "icon",
                 "icon_class": "fa-twitter",
