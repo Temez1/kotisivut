@@ -7,7 +7,7 @@ sections:
     title: Tervetuloa
     content: asdfsdfasd
     actions:
-      - label: Let's talk
+      - label: Ota yhteyttä
         url: /contact
         style: button
   - section_id: latest-projects
