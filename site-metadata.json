@@ -44,7 +44,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Linkki mun twitter ",
+                "label": "Linkki mun twitter sivulle",
                 "url": "https://twitter.com/temez1",
                 "style": "icon",
                 "icon_class": "fa-twitter",
