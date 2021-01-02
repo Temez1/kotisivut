@@ -34,7 +34,8 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "link",
+                "icon_class": "oo"
             }
         ]
     },
