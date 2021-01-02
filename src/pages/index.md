@@ -22,7 +22,7 @@ sections:
     title: Viimeisimmät blogi postaukset
     subtitle: ''
     posts_number: 3
-    col_number: two
+    col_number: three
     actions:
       - label: View Blog
         url: blog
