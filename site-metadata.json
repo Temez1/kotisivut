@@ -1,7 +1,7 @@
 {
     "description": "Teemu Heleniuksen kotisivut",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "green",
     "header": {
         "title": "Teemu Helenius",
         "has_nav": true,
