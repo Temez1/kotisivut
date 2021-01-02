@@ -9,7 +9,7 @@ sections:
       Nettisivuiltani löydät viimeaikaisia projektejani, blogin, yleistietoa
       meikäläisestä sekä yhteystietoni. Voit myös lukea lyhyen historiani.
     actions:
-      - label: lorem-ipsum
+      - label: Lyhyt Historiani
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
