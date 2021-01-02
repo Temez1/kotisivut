@@ -58,7 +58,7 @@
                 "new_window": true
             },
             {
-                "label": "Linkki mun link",
+                "label": "Linkki mun linkedin sivulle",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
