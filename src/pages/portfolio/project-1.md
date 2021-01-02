@@ -2,7 +2,7 @@
 title: Project Title
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/teekkarin-sekoilu-seikkailut.png
 image: images/1.jpg
 template: project
 ---
