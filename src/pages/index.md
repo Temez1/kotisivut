@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Tervetuloa
-    content: ''
+    content: asdfsdfasd
     actions:
       - label: Let's talk
         url: /contact
