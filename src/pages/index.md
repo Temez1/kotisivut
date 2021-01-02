@@ -7,7 +7,7 @@ sections:
     title: Tervetuloa
     content: >-
       Nettisivuiltani löydät viimeaikaisia projektejani, blogin, yleistietoa
-      meikäläisestä sekä yhteystietoni.
+      meikäläisestä sekä yhteystietoni. Voit myös lukea lyhyen historiani.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
