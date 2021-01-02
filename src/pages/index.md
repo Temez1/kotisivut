@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Tervetuloa
     content: >-
-      Nettisivuiltani löydät viimeaikaisia töitäni, blogin ja yleistietoa
+      Nettisivuiltani löydät viimeaikaisia töitäni, blogin, yleistietoa
       meikäläisestä sekä yhteystiedot.
     actions:
       - label: Ota yhteyttä
