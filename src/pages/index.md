@@ -25,7 +25,7 @@ sections:
     col_number: three
     actions:
       - label: View Blog
-        url: blog
+        url: blogi
         style: button
 template: advanced
 ---
