@@ -40,7 +40,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Teemu Helenius. Nettisivu on tehty <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbitin</a> avulla.",
+        "content": "&copy; Teemu Helenius. Nettisivut on tehty <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbitin</a> avulla.",
         "has_social": true,
         "social_links": [
             {
