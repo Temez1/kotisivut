@@ -6,7 +6,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: ''
-    col_number: three
+    col_number: two
     is_numbered: true
     grid_items:
       - title: lorem-ipsum
