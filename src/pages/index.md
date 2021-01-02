@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
-        style: icon
+        style: button
         icon_class: fa-github
         new_window: false
         type: action
