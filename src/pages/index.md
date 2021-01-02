@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
-        style: link
+        style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
