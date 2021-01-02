@@ -1,5 +1,5 @@
 ---
-title: Yleistietoa
+title: Lyhyt Historiani
 subtitle: ''
 image: images/about.jpg
 template: page
