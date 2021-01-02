@@ -12,7 +12,7 @@ sections:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
         style: button
-        icon_class: fa-github
+        icon_class: ''
         new_window: false
         type: action
   - section_id: latest-projects
