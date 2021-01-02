@@ -5,7 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Tervetuloa
-    content: asdfsdfasd
+    content: >-
+      Nettisivuiltani löydät viimeaikaisia töitäni, blogin ja yleistietoa
+      meikäläisestä sekä yhteystiedot
     actions:
       - label: Ota yhteyttä
         url: /contact
