@@ -10,7 +10,7 @@ sections:
       meikäläisestä sekä yhteystietoni. Voit myös lukea lyhyen historiani.
     actions:
       - label: Lyhyt Historiani
-        url: lorem-ipsum
+        url: lyhyt-historiani
         style: link
         icon_class: lorem-ipsum
         new_window: false
