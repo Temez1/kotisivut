@@ -8,7 +8,13 @@ sections:
     content: >-
       Nettisivuiltani löydät viimeaikaisia projektejani, blogin, yleistietoa
       meikäläisestä sekä yhteystietoni. Voit myös lukea lyhyen historiani.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
