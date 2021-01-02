@@ -8,10 +8,7 @@ sections:
     content: >-
       Nettisivuiltani löydät viimeaikaisia töitäni, blogin, yleistietoa
       meikäläisestä sekä yhteystiedot.
-    actions:
-      - label: Ota yhteyttä
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
