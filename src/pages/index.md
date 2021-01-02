@@ -12,7 +12,7 @@ sections:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
         style: button
-        icon_class: lorem-ipsum
+        icon_class: af-github
         new_window: false
         type: action
   - section_id: latest-projects
