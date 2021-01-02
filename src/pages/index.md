@@ -9,7 +9,7 @@ sections:
       Nettisivuiltani löydät viimeaikaisia projektejani, blogin, yleistietoa
       meikäläisestä sekä yhteystietoni. Voit myös lukea lyhyen historiani.
     actions:
-      - label: Lyhyt Historiani
+      - label: ''
         url: lyhyt-historiani
         style: button
         icon_class: fa-github
