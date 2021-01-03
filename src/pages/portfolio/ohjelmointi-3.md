@@ -1,6 +1,6 @@
 ---
 title: Ohjelmointi 3 Projekti
-subtitle: ''
+subtitle: a
 excerpt: lorem-ipsum
 date: '2019-04-08'
 template: project
