@@ -11,16 +11,13 @@ sections:
     grid_items:
       - title: 2014-2017
         content: >-
-          ## Lorem ipsum
+          ## Lukio
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Koulunkäynti lukioaikana ei rehellisesti sanottuna kiinnostanut
+          tarpeeksi. Ote suurimpaan osaan oli sieltä mistä aita on matalin.
+          Koulu"menestys" (arvosanat BCCME) olisi ollut varmaan sitäkin heikompi
+          ilman fiksuja ihmisiä ympärillä. Go rellu!
         actions: []
         type: grid_item
       - title: lorem-ipsum
