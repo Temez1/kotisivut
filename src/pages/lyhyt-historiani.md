@@ -9,7 +9,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: lorem-ipsum
+      - title: Lukio
         content: >-
           ## Lorem ipsum
 
