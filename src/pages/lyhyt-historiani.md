@@ -35,7 +35,7 @@ sections:
         actions: []
         type: grid_item
         image: images/tty-logo.png
-      - title: lorem-ipsum
+      - title: '2020'
         content: >-
           ## Lorem ipsum
 
