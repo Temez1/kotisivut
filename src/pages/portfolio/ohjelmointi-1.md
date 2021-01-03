@@ -1,5 +1,5 @@
 ---
-title: Another Application
+title: Ohjelmointi 1 Projekti
 subtitle: ''
 excerpt: >-
   Sain idean tehdä pelin työnhakemisesta kun hain töitä. Pelin tarkoitus on
