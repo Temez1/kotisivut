@@ -7,7 +7,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: ''
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: 2014-2017
         content: >-
