@@ -20,3 +20,5 @@ Trelloa käytettiin hyväksi **_työskentelyn suunnitteluun ja työskentelyn seu
 Aluksi tehtiin **_prototyyppi_**, jossa vaatimuksina oli pelaajan liikkuminen pysäkiltä toisille bussien avulla. Ekat pari viikkoa tuli luettua dokumentaatiota lähinnä [Graphics Itemin](https://doc.qt.io/qt-5/qgraphicsitem.html) käytöstä [Graphics Scenen](https://doc.qt.io/qt-5/qgraphicsscene.html) kanssa.
 
 Prototyypin jälkeen saatiin idea tehdä **_ruuankuljetuspeli_**, jota tehtiin viikko kerrallaan. Tavoitteena oli saada peruspeli valmiiksi.
+
+![](./static/images/luokkakaavio.png)
