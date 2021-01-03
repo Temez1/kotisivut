@@ -40,22 +40,5 @@ sections:
       - label: Blogi
         url: blog
         style: button
-  - title: Kuka?
-    section_id: kuka
-    subtitle: ''
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: section_content
-    image: images/luokkakaavio.png
 template: advanced
 ---
