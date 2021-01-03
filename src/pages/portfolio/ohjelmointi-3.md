@@ -2,7 +2,7 @@
 title: Ohjelmointi 3 Projekti
 subtitle: ''
 excerpt: lorem-ipsum
-date: '2020-12-08'
+date: '2020-11-08'
 template: project
 thumb_image: images/teekkarin-sekoilu-seikkailut-thumb.png
 image: images/happy-stegosaurus.png
