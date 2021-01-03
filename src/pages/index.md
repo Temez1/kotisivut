@@ -51,7 +51,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: ''
         url: lorem-ipsum
         style: icon
         icon_class: fa-github
