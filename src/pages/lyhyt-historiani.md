@@ -47,6 +47,7 @@ sections:
           antia isosta firmasta.
         actions: []
         type: grid_item
+        image: images/nokia-logo.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
