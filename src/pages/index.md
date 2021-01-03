@@ -52,5 +52,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/luokkakaavio.png
 template: advanced
 ---
