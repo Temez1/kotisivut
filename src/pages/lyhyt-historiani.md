@@ -9,7 +9,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: '20'
+      - title: 2014-2017
         content: >-
           ## Lorem ipsum
 
