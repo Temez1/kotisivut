@@ -18,7 +18,7 @@ sections:
           tarpeeksi tai yhtä paljon kuin LoL:in, CSGO:n ja R6 Siege:n
           pelaaminen. Ote suurimpaan osaan aineista oli tyylillä sieltä mistä
           aita on matalin. Koulu"menestys" (arvosanat BCCME) olisi ollut varmaan
-          sitäkin heikompi ilman fiksuja ihmisiä ympärillä. Go rellu!
+          sitäkin heikompia ilman fiksuja ihmisiä ympärillä. Go Rellu!
         actions: []
         type: grid_item
         image: images/texas-holdem.png
