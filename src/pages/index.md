@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Tervetuloa
     content: >-
-      Nettisivuiltani löydät viimeaikaisia projektejani, blogin, yleistietoa
-      meikäläisestä sekä yhteystietoni. Voit myös lukea lyhyen historiani.
+      Nettisivuiltani löydät viimeaikaisia projektejani, blogin sekä
+      yhteystietoni. Voit myös lukea lyhyen historiani.
     actions:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
