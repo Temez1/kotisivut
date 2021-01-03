@@ -21,7 +21,7 @@ sections:
           heikompia ilman fiksuja ihmisiä ympärillä. Go Rellu!
         actions: []
         type: grid_item
-        image: images/rellu.jpg
+        image: images/rellu.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
