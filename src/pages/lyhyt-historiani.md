@@ -24,16 +24,14 @@ sections:
         image: images/rellu.png
       - title: 2018-
         content: >-
-          ## Lorem ipsum
+          ## Yliopisto
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Aloitin opiskelun alunperin Konetekniikan parissa TTY:llä. Lukioon
+          verrattuna tein pienen ryhdistäytymisen koulun käyntiin ja ylipäätään
+          elämänasenteeseeni. En enää valunut vain tunnilta/luennolta toiselle.
+          Aktivoiduin tekemisessäni ja otin vastuuta niin koulusta kuin
+          vapaa-ajasta.
         actions: []
         type: grid_item
       - title: lorem-ipsum
