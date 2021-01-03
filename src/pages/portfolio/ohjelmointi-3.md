@@ -21,4 +21,4 @@ Aluksi tehtiin **_prototyyppi_**, jossa vaatimuksina oli pelaajan liikkuminen py
 
 Prototyypin jälkeen saatiin idea tehdä **_ruuankuljetuspeli_**, jota tehtiin viikko kerrallaan. Tavoitteena oli saada peruspeli valmiiksi.
 
-![Luokkakaavio](./luokkakaavio.png)
+![Luokkakaavio](../../../static/images/luokkakaavio.png)
