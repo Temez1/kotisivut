@@ -53,7 +53,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: button
+        style: icon
         icon_class: lorem-ipsum
         new_window: false
         type: action
