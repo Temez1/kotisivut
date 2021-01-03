@@ -4,7 +4,7 @@ subtitle: ''
 excerpt: lorem-ipsum
 date: '2019-04-08'
 template: project
-thumb_image: images/teekkarin-sekoilu-seikkailut.png
+thumb_image: images/teekkarin-sekoilu-seikkailut-thumb.png
 image: images/happy-stegosaurus.png
 ---
 
