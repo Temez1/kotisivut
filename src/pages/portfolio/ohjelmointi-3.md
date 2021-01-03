@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Ohjelmointi 3 Projekti
 subtitle: Optional Project Subtitle
 excerpt: lorem-ipsum
 date: '2019-04-08'
