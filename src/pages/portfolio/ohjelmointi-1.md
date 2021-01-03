@@ -6,7 +6,7 @@ excerpt: >-
   kerätä CV:n palaset yhteen voittaaksesi pelin.
 date: '2019-08-06'
 template: project
-thumb_image: images/texas-holdem-voitto.png
+thumb_image: images/texas-holdem-thumb.png
 image: images/texas-holdem.png
 ---
 [***Texas Hold'em***](https://fi.wikipedia.org/wiki/Texas_hold_%E2%80%99em) on mahdollisesti jo ennestään tuttu peli. Ensimmäisen ohjelmointikurssin päätösprojekti. Fuksivuoden kesälomalla oli vielä aikaa tehdä projekteja ilman huolia tai murheita. Tunteja vierähti varmaan jotain 70h luokkaa kaikkineen säätöineen.
