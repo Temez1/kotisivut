@@ -2,7 +2,7 @@
 title: Ohjelmointi 3 Projekti
 subtitle: ''
 excerpt: lorem-ipsum
-date: '2019-04-08'
+date: '2020-11-25'
 template: project
 thumb_image: images/teekkarin-sekoilu-seikkailut-thumb.png
 image: images/happy-stegosaurus.png
@@ -17,6 +17,6 @@ Trelloa käytettiin hyväksi **_työskentelyn suunnitteluun ja työskentelyn seu
 
 **_Branchejä_** käytettiin hyväksi versionhallinnassa. Aluksi oli tapana tehdä oma bränchinsä jokaiselle uudelle ominaisuudelle, mutta ihan projektin viimeisellä viikolla ryhdyin käyttämään devT bränchiä, jossa tein ominaisuudet, jotka sitten mergettiin masteriin.
 
-Aluksi tehtiin **_prototyyppi_**, jossa vaatimuksina oli pelaajan liikkuminen pysäkiltä toisille bussien avulla. Ekat pari viikkoa tuli luettua dokumentaatiota esimerkiksi [Graphics Itemin](https://doc.qt.io/qt-5/qgraphicsitem.html) käytöstä [Graphics Scenen](https://doc.qt.io/qt-5/qgraphicsscene.html) kanssa.
+Aluksi tehtiin **_prototyyppi_**, jossa vaatimuksina oli pelaajan liikkuminen pysäkiltä toisille bussien avulla. Ekat pari viikkoa tuli luettua dokumentaatiota lähinnä [Graphics Itemin](https://doc.qt.io/qt-5/qgraphicsitem.html) käytöstä [Graphics Scenen](https://doc.qt.io/qt-5/qgraphicsscene.html) kanssa.
 
 Prototyypin jälkeen saatiin idea tehdä **_ruuankuljetuspeli_**, jota tehtiin viikko kerrallaan. Tavoitteena oli saada peruspeli valmiiksi.
