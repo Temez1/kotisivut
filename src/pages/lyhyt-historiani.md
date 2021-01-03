@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Lyhyt Historiani
     section_id: lorem-ipsum
     subtitle: ''
     col_number: two
