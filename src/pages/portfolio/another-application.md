@@ -1,7 +1,9 @@
 ---
 title: Another Application
 subtitle: ''
-excerpt: lorem-ipsum
+excerpt: >-
+  Got an idea to make a game about job-hunting. A short game where you need to
+  get your cv together.
 date: '2019-12-19'
 template: project
 thumb_image: images/another-application-thumb.png
