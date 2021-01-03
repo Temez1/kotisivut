@@ -27,4 +27,4 @@ Alla näkyy ohjelman luokkakaavio. Signaalit edustavat Qt:n [Signals & Slots](ht
 
 ![Luokkakaavio](/images/luokkakaavio.png)
 
-Voit ladata pelin [Gitistä](https://github.com/Temez1/ohj3-projekti) unzipata ja pelata <i class="far fa-smile"></i>
+Voit ladata pelin [Gitistä](https://github.com/Temez1/ohj3-projekti) unzipata ja pelata :)
