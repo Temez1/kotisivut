@@ -40,7 +40,7 @@ sections:
           ## Eka alan työpaikka
 
 
-          Olin kesätöissä Nokialla ja pääsin kokemaan ensi kosketuksen
+          Olin kesätöissä Nokialla ja pääsin kokemaan ensikosketuksen
           ohjelmistoalaan. Päädyin DevOps hommiin, vaikka ajattelin alunperin
           meneväni koodaamaan. Isomman
           [ohjelmiston](https://www.nokia.com/networks/products/network-operations-master/#overview)
