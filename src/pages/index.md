@@ -36,7 +36,7 @@ sections:
         style: button
   - title: Kuka?
     section_id: kuka
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       ## Lorem ipsum
 
