@@ -17,7 +17,7 @@ Timelapsea työstämisestä trial and error meiningillä voi katsellä [Youtubes
 
 Taisin tuolloin ensimmäisen kerran törmätä AI/ML pöhinöihin kun googlasin miten AI pelaajat pokeripeliin pitäisi toteuttaa. Tämä jäi vain haaveeksi kun tajusin nopeasti, että pelkästään pelin tekeminenkin on suhteellisen haastavaa puhumattakaan vähänkään edistyneestä AI:stä. Lopuksi näin plot twistinä AI maksaa "call" aina eli vedättäminen on helppoa. Ei AI:ta suotta kutsuta Tyhäm fukseiksi ;)
 
-Peliä pääsee pelaamaan kun asentaa [python](https://www.python.org/) (3) ja lataa [Gitistä](https://github.com/Temez1/ohj3-projekti) pelin, unzippaa ja ajaa Peli.py tiedoston. "Main":iksi sitä nykyään kutsuttaisiin, mutta siitä en vielä silloin tiennyt :)
+Peliä pääsee pelaamaan kun asentaa [python (3)](https://www.python.org/), lataa [Gitistä](https://github.com/Temez1/ohj3-projekti) pelin, unzippaa ja ajaa Peli.py tiedoston. "Main":iksi sitä nykyään kutsuttaisiin, mutta siitä en vielä silloin tiennyt :)
 
 Korkeempi kaksi paria JJ44 voittaa Tyhäm fuksi1:den 6644 kaksi paria. Kuningasvärisuoraa ei ole vielä toistaiseksi tullut eikä montaa muutakaan voittoehtoa ole testattu. Mikäli löydät bugin (Niitä varmasti löytyy) niin ota yhteyttä ja lisään vaikka nimesi tähän alapuolelle :D
 ![Kuva Texas Hold'emin voittotilanteesta pelissä](/images/texas-holdem-voitto.png)
