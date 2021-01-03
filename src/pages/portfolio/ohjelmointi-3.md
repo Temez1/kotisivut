@@ -4,7 +4,6 @@ subtitle: ''
 excerpt: lorem-ipsum
 date: '2020-11-25'
 template: project
-thumb_image: images/teekkarin-sekoilu-seikkailut-thumb.png
 ---
 **Ohjelmointi 3** kurssin aikana tehtiin parityönä peli. Teimme pelin puhtaalta pöydältä täysin itse. Pelissämme *Teekkarin Sekoilu Seikkailut* on ideana viedä ruokaa nälkäisille teekkareille ennen kuin se jäähtyy piloille. Peli toteutettiin Qt:n [Graphics View Frameworkin](https://doc.qt.io/qt-5/graphicsview.html) avulla. Projektin kesto oli 9 viikkoa.
 
