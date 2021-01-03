@@ -22,7 +22,7 @@ sections:
         actions: []
         type: grid_item
         image: images/rellu.png
-      - title: lorem-ipsum
+      - title: 2018-
         content: >-
           ## Lorem ipsum
 
