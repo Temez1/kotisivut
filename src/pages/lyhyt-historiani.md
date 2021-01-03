@@ -43,8 +43,8 @@ sections:
           Olin kesätöissä Nokialla ja pääsin kokemaan ensi kosketuksen
           ohjelmistoalaan. Päädyin DevOps hommiin, vaikka ajattelin alunperin
           meneväni koodaamaan. Isomman ohjelmiston tekemiseen liittyvät asiat
-          niin kulttuurilliset kuin teknilliset olivat todella mielenkiintoista
-          antia isosta firmasta.
+          niin kulttuurilliset kuin teknilliset olivat mielenkiintoista antia
+          isosta firmasta.
         actions: []
         type: grid_item
         image: images/nokia-logo.png
