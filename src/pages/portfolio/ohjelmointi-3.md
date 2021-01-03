@@ -25,4 +25,4 @@ Alla näkyy ohjelman luokkakaavio. Signaalit edustavat Qt:n [Signals & Slots](ht
 
 ![Luokkakaavio](/images/luokkakaavio.png)
 
-<i class="fab fa-twitter"></i>
+Lisätietoja projektista [Gitistä](https://github.com/Temez1/ohj3-projekti)
