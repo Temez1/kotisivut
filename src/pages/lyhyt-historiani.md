@@ -21,7 +21,7 @@ sections:
           heikompia ilman fiksuja ihmisiä ympärillä. Go Rellu!
         actions: []
         type: grid_item
-        image: images/texas-holdem.png
+        image: images/rellu.jpg
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
