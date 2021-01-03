@@ -16,7 +16,7 @@ sections:
         icon_class: ''
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: Kuka?
         url: lorem-ipsum
         style: button
         icon_class: ''
