@@ -37,16 +37,14 @@ sections:
         image: images/tty-logo.png
       - title: '2020'
         content: >-
-          ## Lorem ipsum
+          ## Eka alan työpaikka
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Olin kesätöissä Nokialla ja pääsin kokemaan ensi kosketuksen
+          ohjelmistoalaan. Päädyin DevOps hommiin, vaikka ajattelin alunperin
+          meneväni koodaamaan. Isomman ohjelmiston tekemiseen liittyvät asiat
+          niin kulttuurilliset kuin teknilliset olivat todella mielenkiintoista
+          antia isosta firmasta.
         actions: []
         type: grid_item
       - title: lorem-ipsum
