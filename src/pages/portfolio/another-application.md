@@ -2,7 +2,7 @@
 title: Another Application
 subtitle: ''
 excerpt: lorem-ipsum
-date: '2020-11-25'
+date: '2020-10-25'
 template: project
 thumb_image: images/teekkarin-sekoilu-seikkailut-thumb.png
 image: images/teekkarin-sekoilu-seikkailut.png
