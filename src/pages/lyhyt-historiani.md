@@ -42,9 +42,10 @@ sections:
 
           Olin kesätöissä Nokialla ja pääsin kokemaan ensi kosketuksen
           ohjelmistoalaan. Päädyin DevOps hommiin, vaikka ajattelin alunperin
-          meneväni koodaamaan. Isomman ohjelmiston tekemiseen liittyvät asiat
-          niin kulttuurilliset kuin teknilliset olivat arvokasta antia isosta
-          firmasta.
+          meneväni koodaamaan. Isomman
+          [ohjelmiston](https://www.nokia.com/networks/products/network-operations-master/#overview)
+          tekemiseen liittyvät asiat niin kulttuurilliset kuin teknilliset
+          olivat arvokasta antia isosta firmasta.
         actions: []
         type: grid_item
         image: images/nokia-logo.png
