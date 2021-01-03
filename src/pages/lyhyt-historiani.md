@@ -15,10 +15,10 @@ sections:
 
 
           Koulunkäynti lukioaikana ei rehellisesti sanottuna kiinnostanut
-          tarpeeksi tai yhtä paljon kuin LoLin ja CSGO:n pelaaminen. Ote
-          suurimpaan osaan oli sieltä mistä aita on matalin. Koulu"menestys"
-          (arvosanat BCCME) olisi ollut varmaan sitäkin heikompi ilman fiksuja
-          ihmisiä ympärillä. Go rellu!
+          tarpeeksi tai yhtä paljon kuin LoL:in, CSGO:n ja R6 Siege:n
+          pelaaminen. Ote suurimpaan osaan oli sieltä mistä aita on matalin.
+          Koulu"menestys" (arvosanat BCCME) olisi ollut varmaan sitäkin heikompi
+          ilman fiksuja ihmisiä ympärillä. Go rellu!
         actions: []
         type: grid_item
       - title: lorem-ipsum
