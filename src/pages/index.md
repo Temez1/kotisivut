@@ -34,7 +34,7 @@ sections:
       - label: Blogi
         url: blog
         style: button
-  - title: lorem-ipsum
+  - title: Kuka?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
