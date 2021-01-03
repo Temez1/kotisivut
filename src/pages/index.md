@@ -16,12 +16,6 @@ sections:
         icon_class: ''
         new_window: false
         type: action
-      - label: Kuka?
-        url: lorem-ipsum
-        style: button
-        icon_class: ''
-        new_window: false
-        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
