@@ -21,7 +21,7 @@ sections:
           heikompia ilman fiksuja ihmisiä ympärillä. Go Rellu!
         actions: []
         type: grid_item
-        image: images/rellu.png
+        image: images/tty-logo.png
       - title: 2018-
         content: >-
           ## Yliopisto
