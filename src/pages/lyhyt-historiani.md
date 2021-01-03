@@ -50,16 +50,13 @@ sections:
         image: images/nokia-logo.png
       - title: '2021'
         content: >-
-          ## Lorem ipsum
+          ## Valmistuminen, oma yritys
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Tuleva vuosi tulee varmasti olemaan kiireinen niin kuin aiemmatkin.
+          Tavoitteena on lähteä tekemään omaa juttua eli suomeksi yritystä. Myös
+          kandin työ on tarkoitus kirjoittaa kevään aikana ja valmistua
+          ohjelmistotekniikan kandidaatiksi.
         actions: []
         type: grid_item
     type: section_grid
