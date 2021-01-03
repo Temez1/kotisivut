@@ -24,3 +24,5 @@ Prototyypin jälkeen saatiin idea tehdä **_ruuankuljetuspeli_**, jota tehtiin v
 Alla näkyy ohjelman luokkakaavio. Signaalit edustavat Qt:n [Signals & Slots](https://doc.qt.io/qt-5/signalsandslots.html) mekanismia.
 
 ![Luokkakaavio](/images/luokkakaavio.png)
+
+<i class="fab fa-twitter"></i>
