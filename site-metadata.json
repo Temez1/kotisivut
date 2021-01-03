@@ -33,7 +33,7 @@
             },
             {
                 "label": "Yhteystiedot",
-                "url": "/contact/",
+                "url": "/yhteystiedot/",
                 "style": "link",
                 "icon_class": ""
             }
