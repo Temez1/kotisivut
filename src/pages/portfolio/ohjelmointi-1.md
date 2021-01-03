@@ -19,5 +19,5 @@ Taisin tuolloin ensimmäisen kerran törmätä AI/ML pöhinöihin kun googlasin 
 
 Peliä pääsee pelaamaan kun asentaa [python](https://www.python.org/) (3) ja lataa [Gitistä](https://github.com/Temez1/ohj3-projekti) pelin, unzippaa ja ajaa Peli.py tiedoston. "Main":iksi sitä nykyään kutsuttaisiin, mutta siitä en vielä silloin tiennyt :)
 
-Korkeempi kaksi paria JJ44 voittaa Tyhäm fuksi 1 6644 kaksi paria. Kuninga
+Korkeempi kaksi paria JJ44 voittaa Tyhäm fuksi1 6644 kaksi paria. Kuninga
 ![Kuva Texas Hold'emin voittotilanteesta pelissä](/images/texas-holdem-voitto.png)
