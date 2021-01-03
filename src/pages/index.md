@@ -7,7 +7,9 @@ sections:
     title: Tervetuloa
     content: >-
       Nettisivuiltani löydät viimeaikaisia projektejani, blogin sekä
-      yhteystietoni. Voit myös lukea lyhyen historiani.
+      yhteystietoni. 
+
+      Voit myös lukea lyhyen historiani.
     actions:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
