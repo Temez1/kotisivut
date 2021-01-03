@@ -15,4 +15,6 @@ Itse koodihan on ihan järkyttävää katsottavaa, mutta suhteellisen kompleksin
 
 Timelapsea trial and error meiningillä voi katsellä [Youtubesta](https://youtu.be/K8-x8mP1ln8)
 
+Taisin tuolloin ensimmäisen kerran törmätä AI/ML pöhinöihin kun googlasin miten AI pelaajat pokeripeliin pitäisi toteuttaa. Tämä jäi vain haaveeksi kun tajusin nopeasti, että pelkästään pelin tekeminenkin on suhteellisen haastavaa puhumattakaan vähänkään edistyneestä AI:stä. Lopuksi näin plot twistinä AI maksaa eli "call" aina eli vedätääminen on helppoa. Ei AI:ta suotta kutsuta Tyhäm fukseiksi ;)
+
 Peliä pääsee pelaamaan kun löytyy python (3) ja lataa [Gitistä](https://github.com/Temez1/ohj3-projekti) pelin, unzippaa ja ajaa Peli.py tiedoston. Mainiksi sitä nykyään kutsuttaisiin, mutta siitä en vielä silloin tiennyt :)
