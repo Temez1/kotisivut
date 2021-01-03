@@ -8,7 +8,7 @@ sections:
     content: |-
       Nettisivuiltani löydät projektejani, blogin sekä yhteystietoni.
 
-      Voit myös lukea lyhyen historiani.
+      Tai sitten voit vaan lukea lyhyen historiani ja perustietoni.
     actions:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
