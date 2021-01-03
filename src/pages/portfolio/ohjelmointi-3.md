@@ -9,7 +9,7 @@ image: images/happy-stegosaurus.png
 ---
 **Ohjelmointi 3** kurssin aikana tehtiin parityönä peli. Teimme pelin puhtaalta pöydältä täysin itse. Pelissämme *Teekkarin Sekoilu Seikkailut* on ideana viedä ruokaa nälkäisille teekkareille ennen kuin se jäähtyy piloille. Peli toteutettiin Qt:n [Graphics View Frameworkin](https://doc.qt.io/qt-5/graphicsview.html) avulla. Projektin kesto oli 9 viikkoa.
 
-Työskentelyssä harjoiteltiin itsenäisesti **_ketterää ohjelmistokehitystä_**. Meillä oli 1 viikon mittainen sprintti/**iteraatio** ja joka viikon alussa käytiin läpi mitä oltiin saatu aikaseksi viime viikolla(**retro**) ja mitä tavoitellaan seuraavalta viikolta(**planning**). **Backlogi** oli myös käytössä, johon määriteltiin ominaisuuksia pelin muodostuessa.
+Työskentelyssä harjoiteltiin itsenäisesti **_ketterää ohjelmistokehitystä_**. Meillä oli 1 viikon mittainen sprintti/**iteraatio** ja joka viikon alussa käytiin läpi mitä oltiin saatu aikaseksi viime viikolla(**retro**) ja mitä tavoitellaan seuraavalta viikolta (**planning**). **Backlogi** oli myös käytössä, johon määriteltiin ominaisuuksia pelin muodostuessa.
 
 **Trelloa** käytettiin hyväksi **_työskentelyn suunnitteluun ja työskentelyn seuraamiseen_**. Tauluina olivat jokaiselle iteraatiolle TODO, DOING, DONE ja RETRO. Tämän lisäksi backlog oli omana taulunansa. Puolivälissä projektia tehtiin myös Possible Features taulu, johon listattiin ideoita mitä saatettiin ottaa backlogiin.
 
