@@ -21,7 +21,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Viimeaikaisia projekteja
+    title: Viimeisimmät projektit
     subtitle: ''
     projects_number: 4
     view_all_label: View All
