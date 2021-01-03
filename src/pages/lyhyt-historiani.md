@@ -48,7 +48,7 @@ sections:
         actions: []
         type: grid_item
         image: images/nokia-logo.png
-      - title: lorem-ipsum
+      - title: '2021'
         content: >-
           ## Lorem ipsum
 
