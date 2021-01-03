@@ -34,6 +34,7 @@ sections:
           vapaa-ajasta.
         actions: []
         type: grid_item
+        image: images/tty-logo.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
