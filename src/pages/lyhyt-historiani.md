@@ -22,7 +22,7 @@ sections:
         actions: []
         type: grid_item
         image: images/rellu.png
-      - title: 2018-
+      - title: 2018-2021
         content: >-
           ## Yliopisto
 
