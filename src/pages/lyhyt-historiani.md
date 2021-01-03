@@ -15,7 +15,7 @@ sections:
 
 
           Koulunkäynti lukioaikana ei rehellisesti sanottuna kiinnostanut
-          tarpeeksi verrattuna LoL:iin, CSGO:n jaSiege:n pelaamiseen. Ote
+          tarpeeksi verrattuna LoL:iin, CSGO:n ja Siege:n pelaamiseen. Ote
           suurimpaan osaan aineista oli tyylillä sieltä mistä aita on matalin.
           Koulu"menestys" (arvosanat BCCME) olisi ollut varmaan sitäkin
           heikompia ilman fiksuja ihmisiä ympärillä. Go Rellu!
