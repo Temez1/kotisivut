@@ -2,8 +2,8 @@
 title: Another Application
 subtitle: ''
 excerpt: >-
-  Got an idea to make a game about job-hunting. A short game where you need to
-  get your cv together.
+  Sain idean tehdä pelin työnhakemisesta kun hain töitä. Pelin tarkoitus on
+  kerätä CV:n palaset yhteen voittaaksesi pelin.
 date: '2019-12-19'
 template: project
 thumb_image: images/another-application-thumb.png
