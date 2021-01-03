@@ -21,4 +21,6 @@ Aluksi tehtiin **_prototyyppi_**, jossa vaatimuksina oli pelaajan liikkuminen py
 
 Prototyypin jälkeen saatiin idea tehdä **_ruuankuljetuspeli_**, jota tehtiin viikko kerrallaan. Tavoitteena oli saada peruspeli valmiiksi.
 
+Alla näkyy ohjelman luokkakaavio. Signaalit edustavat Qt:n [Signals & Slots](https://doc.qt.io/qt-5/signalsandslots.html) mekanismia.
+
 ![Luokkakaavio](/images/luokkakaavio.png)
