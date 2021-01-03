@@ -21,6 +21,7 @@ sections:
           sitäkin heikompi ilman fiksuja ihmisiä ympärillä. Go rellu!
         actions: []
         type: grid_item
+        image: images/another-application-thumb.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
