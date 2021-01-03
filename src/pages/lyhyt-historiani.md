@@ -60,6 +60,7 @@ sections:
           ohjelmistotekniikan kandidaatiksi.
         actions: []
         type: grid_item
+        image: images/progress.png
     type: section_grid
 template: advanced
 ---
