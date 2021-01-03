@@ -35,7 +35,7 @@ sections:
         url: blog
         style: button
   - title: Kuka?
-    section_id: lorem-ipsum
+    section_id: kuka
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
