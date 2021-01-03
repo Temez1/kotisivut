@@ -4,7 +4,7 @@ subtitle: ''
 excerpt: >-
   Sain idean tehdä pelin työnhakemisesta kun hain töitä. Pelin tarkoitus on
   kerätä CV:n palaset yhteen voittaaksesi pelin.
-date: '2019-12-19'
+date: '2019-08-19'
 template: project
 thumb_image: images/texas-holdem-thumb.png
 image: images/texas-holdem.png
