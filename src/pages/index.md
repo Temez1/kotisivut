@@ -50,13 +50,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions:
-      - label: ''
-        url: lorem-ipsum
-        style: icon
-        icon_class: fa-github
-        new_window: false
-        type: action
+    actions: []
     type: section_content
     image: images/luokkakaavio.png
 template: advanced
