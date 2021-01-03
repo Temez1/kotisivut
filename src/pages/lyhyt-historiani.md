@@ -9,7 +9,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Lukio
+      - title: '20'
         content: >-
           ## Lorem ipsum
 
