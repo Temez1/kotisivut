@@ -1,5 +1,5 @@
 ---
-title: Ohjelmointi 3 Projekti
+title: Another Application
 subtitle: ''
 excerpt: lorem-ipsum
 date: '2020-11-25'
