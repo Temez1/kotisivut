@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-12-19'
 template: project
 thumb_image: images/texas-holdem-thumb.png
-image: images/another-application.png
+image: images/texas-holdem.png
 ---
 ***Another Application*** on peli, jonka tein ensimmäisenä portfolio projektina ohjelmoinnnin osalta. Sain idean tehdä pelin työnhakemisesta kun hain töitä 2019 marras-joulukuussa. Pelin tarkoitus on kerätä CV:n palaset yhteen voittaaksesi pelin.
 
