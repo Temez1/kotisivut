@@ -28,7 +28,7 @@ sections:
 
 
           Aloitin opiskelun alunperin Konetekniikan parissa TTY:llä. Lukioon
-          verrattuna tein pienen ryhdistäytymisen koulun käyntiin ja ylipäätään
+          verrattuna tein ryhdistäytymisen koulun käyntiin ja ylipäätään
           elämänasenteeseeni. En enää valunut vain tunnilta/luennolta toiselle.
           Aktivoiduin tekemisessäni ja otin vastuuta niin koulusta kuin
           vapaa-ajasta.
