@@ -4,7 +4,7 @@ hide_title: false
 excerpt: ''
 sections:
   - title: ''
-    section_id: lorem-ipsum
+    section_id: ''
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
