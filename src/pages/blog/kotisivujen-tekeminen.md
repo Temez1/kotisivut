@@ -15,14 +15,14 @@ En ole koskaan tehnyt nettisivuja aiemmin. Oma web taustani on lähinnä harrast
 
 ## Työkalujen valinta
 
-Googlailin mahdollisuuksia pari viikkoa kun muutenkin pyörittelin tulevaa kandiaihettani "[MVP](https://fi.wikipedia.org/wiki/Pienin_toimiva_tuote) web stack" eli tapaa tehdä [SaaS](https://fi.wikipedia.org/wiki/Software_as_a_Service) sovellus nykypäivänä. Tästä mahdollisesti lisää tulevaisuudessa blogin muodossa.
+Googlailin eri mahdollisuuksia pari viikkoa kun muutenkin pyörittelin tulevaa kandiaihettani "[MVP](https://fi.wikipedia.org/wiki/Pienin_toimiva_tuote) web stack" eli tapaa tehdä [SaaS](https://fi.wikipedia.org/wiki/Software_as_a_Service) sovellus nykypäivänä. Tästä mahdollisesti lisää tulevaisuudessa blogin muodossa.
 
 Törmäsin ensin [JAMStackin](https://jamstack.wtf/) tapaan tehdä web sovelluksia. Aihetta googlaillessani törmäsin [Stackbit](https://www.stackbit.com/) palveluun. Oikeastaan tämä [video](https://www.youtube.com/watch?v=gdlQ1pJ46UQ) sai minut innostumaan palvelun kokeilusta. Kyseinen palvelu lupaili paljon. Oikeastaan **kaiken** yhdessä paketissa.
 
 ## Stackbitin ominaisuudet
 
-Live editori (Stackbit Studio), joka pysyy synkassa GitHubin eli [tämän verkkosivun lähdekoodin](https://github.com/Temez1/kotisivut) kanssa. Kaikki muutokset näkyvät välittömästi siis sekä silmissä, että lähdekoodissa. Tämä mahdollistaa myös yhteistyön verkkosivujen rakentamiseen koodareiden ja ei koodareiden välillä. Lisäksi niille, jotka tekee työkseen nettisivuja on varmasti kätevää kun voi näyttää asiakkaalle live preview kännykällä ja/tai konella.
+Live editori (Stackbit Studio), joka pysyy synkassa GitHubin eli tämän verkkosivun [lähdekoodin](https://github.com/Temez1/kotisivut) kanssa. Kaikki muutokset näkyvät välittömästi siis sekä silmissä, että lähdekoodissa. Tämä mahdollistaa myös yhteistyön verkkosivujen rakentamiseen koodareiden ja ei koodareiden välillä. Lisäksi niille, jotka tekee työkseen nettisivuja on varmasti kätevää kun voi näyttää asiakkaalle live preview kännykällä ja/tai konella.
 
 Tarjolla olisi myös Beta vaiheessa oleva [A/B testaus](https://www.stackbit.com/docs/using-stackbit/a-b-testing-analytics/), mutta tämäkin on turhan edistynyt toiminnallisuus omiin tarpeisiini. Automaattinen [GitHub pohjainen CI/CD](https://docs.netlify.com/configure-builds/get-started/) toiminnallisuus on myös ominaisuus, jota ei osaa edes arvostaa. Eli käytännössä muutosten julkaiseminen nettisivulle tapahtuu yhden napin painalluksella.
 
-[Hosting](https://fi.wikipedia.org/wiki/Webhotelli) on myös ilmaista [Netlifyllä](https://www.netlify.com/) 100 GB:iin/kuukausi asti. Kaiken lisäksi Stackbitin käyttö on mahdollista monella eri static site generaattorilla (SSG) ja [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system):llä, ei pelkästään käyttämälläni [Gatsbyllä](https://www.gatsbyjs.com/) ja suoraan editoimalla Git tiedostoja Stackbit Studiolla.
+[Hosting](https://fi.wikipedia.org/wiki/Webhotelli) on myös ilmaista [Netlify](https://www.netlify.com/):llä 100 GB:iin/kuukausi asti. Kaiken lisäksi Stackbitin käyttö on mahdollista monella eri static site generaattorilla (SSG) ja [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system):llä, ei pelkästään käyttämälläni [Gatsbyllä](https://www.gatsbyjs.com/) ja suoraan editoimalla Git tiedostoja Stackbit Studiolla.
