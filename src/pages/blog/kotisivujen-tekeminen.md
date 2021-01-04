@@ -9,4 +9,8 @@ excerpt: >-
 template: post
 thumb_image: images/stackbit-logo.png
 ---
-En ole koskaan tehnyt nettisivuja aiemmin. Oma web taustani on lähinnä harrastuneisuutta [Ruby on rails](https://github.com/Temez1/upskill_saas_tutorial) ja [fullstack](https://github.com/Temez1/fullstackOpen2019) kurssin muodossa eli en aivan noviisi kuitenkaan ole.
+En ole koskaan tehnyt nettisivuja aiemmin. Oma web taustani on lähinnä harrastuneisuutta Upskillin [Ruby on rails](https://github.com/Temez1/upskill_saas_tutorial) ja Helsingin yliopiston [fullstack](https://github.com/Temez1/fullstackOpen2019) kurssin muodossa eli en aivan noviisi kuitenkaan ole.
+
+Googlailin mahdollisuuksia pari viikkoa kun muutenkin pyörittelin tulevaa kandiaihettani "MVP web stack" eli tapaa tehdä SaaS sovellus nykypäivänä. Tästä mahdollisesti lisää tulevaisuudessa blogin muodossa.
+
+Törmäsin ensin [JAMStackin](https://jamstack.wtf/) tapaan tehdä web sovelluksia. Aihetta googlaillessani törmäsin [Stackbit](https://www.stackbit.com/) palveluun.
