@@ -1,6 +1,6 @@
 ---
 title: Kotisivujen tekeminen
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2019-03-27'
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
