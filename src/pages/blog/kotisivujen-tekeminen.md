@@ -19,4 +19,4 @@ Eli live editorin, joka pysyy synkassa GitHubin eli [tämän verkkosivun lähdek
 
 Tarjolla olisi myös [A/B testaus](https://en.wikipedia.org/wiki/A/B_testing), mutta tämäkin on turhan edistynyt toiminnallisuus omiin tarpeisiini. Automaattinen [GitHub pohjainen CI/CD](https://docs.netlify.com/configure-builds/get-started/) toiminnallisuus on myös ominaisuus, jota ei osaa edes arvostaa. Eli käytännössä muutosten julkaiseminen nettisivulle tapahtuu yhden napin painalluksella.
 
-Hosting on myös ilmaista Netlifyllä 100 GB/kuukausi asti. Kaiken lisäksi Stackbitin käyttö on mahdollista monella eri static site generaattorilla (SSG) headless CMS, ei pelkästään käyttämälläni Gatsbyllä.
+Hosting on myös ilmaista Netlifyllä 100 GB/kuukausi asti. Kaiken lisäksi Stackbitin käyttö on mahdollista monella eri static site generaattorilla (SSG) [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system), ei pelkästään käyttämälläni Gatsbyllä.
