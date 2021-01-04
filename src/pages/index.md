@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Tervetuloa
     content: >-
-      Nettisivuiltani löydät projektejani, **ei** kaupallisen blogin sekä
+      Nettisivuiltani löydät projektejani, **ei** kaupallisen blogini sekä
       yhteystietoni.
 
 
