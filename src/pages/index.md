@@ -5,8 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Tervetuloa
-    content: |-
-      Nettisivuiltani löydät projektejani, blogin sekä yhteystietoni.
+    content: >-
+      Nettisivuiltani löydät projektejani, **ei** kaupallisen blogin sekä
+      yhteystietoni.
+
 
       Tai sitten voit vaan lukea lyhyen historiani.
     actions:
