@@ -15,7 +15,7 @@ Googlailin mahdollisuuksia pari viikkoa kun muutenkin pyörittelin tulevaa kandi
 
 Törmäsin ensin [JAMStackin](https://jamstack.wtf/) tapaan tehdä web sovelluksia. Aihetta googlaillessani törmäsin [Stackbit](https://www.stackbit.com/) palveluun. Oikeastaan tämä [video](https://www.youtube.com/watch?v=gdlQ1pJ46UQ) sai minut innostumaan palvelun kokeilusta. Kyseinen palvelu lupaili paljon. Oikeastaan **kaiken** yhdessä paketissa.
 
-Eli live editorin, joka pysyy synkassa GitHubin eli [tämän verkkosivun lähdekoodin](https://github.com/Temez1/kotisivut) kanssa. Kaikki muutokset näkyvät välittömästi siis sekä silmissä, että lähdekoodissa. Tämä mahdollistaa myös yhteistyön verkkosivujen rakentamiseen koodareiden ja ei koodareiden välillä. Lisäksi niille jotka tekee työkseen nettisivuja on varmasti kätevää kun voi näyttää asiakkaalle live preview kännykällä ja/tai konella.
+Eli live editorin (Stackbit Studio), joka pysyy synkassa GitHubin eli [tämän verkkosivun lähdekoodin](https://github.com/Temez1/kotisivut) kanssa. Kaikki muutokset näkyvät välittömästi siis sekä silmissä, että lähdekoodissa. Tämä mahdollistaa myös yhteistyön verkkosivujen rakentamiseen koodareiden ja ei koodareiden välillä. Lisäksi niille jotka tekee työkseen nettisivuja on varmasti kätevää kun voi näyttää asiakkaalle live preview kännykällä ja/tai konella.
 
 Tarjolla olisi myös [A/B testaus](https://en.wikipedia.org/wiki/A/B_testing), mutta tämäkin on turhan edistynyt toiminnallisuus omiin tarpeisiini. Automaattinen [GitHub pohjainen CI/CD](https://docs.netlify.com/configure-builds/get-started/) toiminnallisuus on myös ominaisuus, jota ei osaa edes arvostaa. Eli käytännössä muutosten julkaiseminen nettisivulle tapahtuu yhden napin painalluksella.
 
