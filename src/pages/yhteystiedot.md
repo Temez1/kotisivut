@@ -14,9 +14,11 @@ sections:
       Mediat, joita tulee käytettyä.
 
 
-      [GitHub](https://github.com/Temez1)  
+      [GitHub](https://github.com/Temez1)
 
-      [LinkedIn](https://www.linkedin.com/in/teemu-helenius/)  
+
+      [LinkedIn](https://www.linkedin.com/in/teemu-helenius/)
+
 
       [Twitter](https://twitter.com/Temez1)
     actions: []
