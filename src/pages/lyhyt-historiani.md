@@ -31,7 +31,7 @@ sections:
           verrattuna tein ryhdistäytymisen koulun käyntiin ja ylipäätään
           elämänasenteeseeni. En enää valunut vain tunnilta/luennolta toiselle.
           Aktivoiduin tekemisessäni ja otin vastuuta niin koulusta kuin
-          vapaa-ajasta. Yliopisto oli henkisen kasvun ja omien projektien aikaa.
+          vapaa-ajasta. Yliopisto oli henkisen kasvun aikaa.
         actions: []
         type: grid_item
         image: images/tty-logo.png
