@@ -49,7 +49,7 @@ sections:
         actions: []
         type: grid_item
         image: images/nokia-logo.png
-      - title: '2021'
+      - title: 2021-
         content: >-
           ## Valmistuminen, oma yritys
 
