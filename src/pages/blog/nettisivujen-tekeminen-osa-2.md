@@ -26,3 +26,9 @@ Sitten vaan luomaan sisältöä Stackbit Studiolla! Kuva, tai ainakin GIF, kerto
 ![Stackbit studion avulla sisällön muokkaamista](/images/stackbit-studio-editing.gif)
 
 Itselleni tuli luonnostaan sisällön muokkaaminen ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaatio](https://www.stackbit.com/docs/using-stackbit/editing-content/) videotutoriaaleineen on hyvä siinä.
+
+Vinkki mitä tulee nettisivujen tehokkuuteen on: Pakkaa kuvasi.
+
+Kuvat ovat varmaan rajuin asia, millä voi tehdä hyvin hitaita sivuja. Tämä johtuu siitä, että ylisuuret kuvat kestävät latautua pitkään, eikä niiden odottelu ole kovin mielekästä puuhaa. Tämän sivun pohjissa olikin valmiiksi jo paikat sekä pienelle esikatselu-, että itse artikkelin suuremmalle kuvalle. Näin ollen kannattaa sama kuva tarjota sekä korkea-, että matalaresoluutioisena. Itse käytin vanhaa kunnon Painttia tähän yksinkertaiseen kuvien muokkaamiseen. Lopuksi pakkasin vielä kuvat [TinyPNG](https://tinypng.com/):llä, joka ei ainakaan omiin silmiin huonontanut kuvia, vaikka pienensi niitä keskimäärin 30-50 prosenttia!
+
+Lopuksi kannattaa vielä ajaa nettisivut Googlen [Ligthhouse](https://developers.google.com/web/tools/lighthouse) tuotteen avulla. Se automaattisesti etsii pahimmat virheet ja tarjoaa analyysin nettisivuistasi. Voit tehdä sen suoraan [selaimessa](https://developers.google.com/speed/pagespeed/insights/)
