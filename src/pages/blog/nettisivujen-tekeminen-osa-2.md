@@ -37,3 +37,6 @@ Lopuksi kannattaa vielä ajaa nettisivut Googlen [Ligthhouse](https://developers
 
 Omiin tuloksiini olin tyytyväinen. Ei näitäkään kannata liikaa tuijotella, vaan ottaa enemmänkin suuntaa antavana ja lukea hiukan mitä työkalu löytää kritisoitavaa nettisivuista. Kannattaa myös huomata, että aivan stabiili ei työkalu myöskään ole ja tulokset muuttuvat hiukan ajokertojen välillä.
 
+Mobiili
+
+![Lighthousen tulos mobiililla](/images/lighthouse-mobile.png)
