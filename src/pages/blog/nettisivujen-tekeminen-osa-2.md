@@ -40,3 +40,8 @@ Omiin tuloksiini olin tyytyväinen. Ei näitäkään kannata liikaa tuijotella, 
 Mobiili
 
 ![Lighthousen tulos mobiililla](/images/lighthouse-mobile.png)
+
+Pöytäkone
+
+
+![Lighthousen tulos pöytäkoneella](/images/lighthouse-desktop.png)
