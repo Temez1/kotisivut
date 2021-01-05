@@ -8,6 +8,7 @@ excerpt: >-
   ominaisuuksia.
 template: post
 thumb_image: images/stackbit-logo.png
+image: images/featured-and-alternative-image-screenshot.png
 ---
 Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen ja nettisivujen suorituskykyyn liittyvät aspektit.
 
