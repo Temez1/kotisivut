@@ -8,6 +8,7 @@ excerpt: >-
   ominaisuuksia.
 template: post
 thumb_image: images/stackbit-logo.png
+image: images/stackbit-studio-editing.gif
 ---
 Nettisivujen tekeminen on oikeasti helppoa ja vieläpä ilmaista. Tämä osa käsittelee osaamistasoni, työkalujen valintaa ja työkaluksi valitun Stackbitin ominaisuuksia.
 
