@@ -9,7 +9,7 @@ excerpt: >-
 template: post
 thumb_image: images/stackbit-logo.png
 ---
-Nettisivujen tekeminen on oikeasti helppoa ja vieläpä ilmaista. Tämä osa käsittelee osaamistasoni, työkalujen valintaa ja työkaluksi valitun Stackbitin ominaisuuksia.
+Tämä osa ryhtyy tuumasta toimeen. Käsitteltävänä on alkuun pääseminen ja nettisivujen suorituskykyyn liittyvät aspektit.
 
 ## Nettisivujen ["Hello world"](https://www.urbandictionary.com/define.php?term=hello%20world)
 Kuten aiemmassa osassa mainitsin Stackbit on kaiken kattava palvelu, joka tarjoaa kaiken alusta loppuun nettisivujen tekemiseksi. Ei ole oikeastaan montaa asiaa, mitä jää edes itse tehtäväksi. Työnkulun voi tiivistää oikeastaan pariin askeleeseen. Ennen kuin stressaat teknista jargonia niin mainitsen jo nyt, että minun ei tarvinnut kirjoittaa riviäkään koodia eli kaiken pystyi tekemään ilman minkäänlaista teknistä kokemusta. Loppujen lopuksi ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta.
