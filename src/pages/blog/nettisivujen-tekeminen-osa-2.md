@@ -40,7 +40,9 @@ Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaa
 
 Vinkki mitä tulee nettisivujen suorituskykyyn on: Pakkaa kuvasi ja pidä niiden resoluutio järkevänä niiden näkyvään kokoon verrattuna. Eli suomeksi ei ole mitään järkeä upottaa 4K kuvia esikatselukuvaan, joka on rajattu näkymään esimerkiksi 400x200 kokoisella alueella.
 
-Kuvat ovat varmaan rajuin asia, millä voi tehdä hyvin hitaita sivuja. Tämä johtuu siitä, että ylisuuret kuvat kestävät latautua pitkään, eikä niiden odottelu ole kovin mielekästä puuhaa. Tämän sivun pohjissa olikin valmiiksi jo paikat sekä pienelle esikatselukuvalle (eng. thumbnail), että itse artikkelin suuremmalle kuvalle. Eli kuvassa näkyvät "Featured Image" (esikatselukuva) ja Alternative Featured Image (eli esimerkiksi portfolioni [projektin kuva](/portfolio/ohjelmointi-3/))
+Kuvat ovat varmaan rajuin asia, millä voi tehdä hyvin hitaita sivuja. Tämä johtuu siitä, että ylisuuret kuvat kestävät latautua pitkään, eikä niiden odottelu ole kovin mielekästä puuhaa. Tämän sivun pohjissa olikin valmiiksi jo paikat sekä pienelle esikatselukuvalle (eng. thumbnail), että itse artikkelin suuremmalle kuvalle. Eli alla olevassa kuvankaappauksessa näkyvät "Featured Image" (esikatselukuva) ja Alternative Featured Image (eli esimerkiksi portfolioni [projektin kuva](/portfolio/ohjelmointi-3/))
+
+![Kuvankaappaus Stackbit Studio editorista, jossa näkyy esikatselukuvan ja artikkelin suuremman kuvan sijainnit.](/images/featured-and-alternative-image-screenshot.png)
 
 Näin ollen kannattaa sama kuva tarjota sekä korkea-, että matalaresoluutioisena. Itse käytin vanhaa kunnon Paint:ia tähän yksinkertaiseen kuvien muokkaamiseen. Lopuksi pakkasin vielä kuvat [TinyPNG](https://tinypng.com/):llä, joka ei ainakaan omiin silmiin huonontanut kuvia, vaikka pienensi niitä keskimäärin 30-50 prosenttia!
 
