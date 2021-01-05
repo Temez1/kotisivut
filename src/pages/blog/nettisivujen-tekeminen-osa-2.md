@@ -18,9 +18,11 @@ Kuten aiemmassa osassa mainitsin Stackbit on kaiken kattava palvelu, joka tarjoa
 
 2. Valitse mieluisa [static site generaattori](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/) (SSG). Itse valitsin Gatsbyn, koska googlettelun perusteella se vaikutti itselleni mieluisimmalta. Rikas ekosysteemi tarkoittaen paljon jatkokehitysmahdollisuuksia, tukea googlettaessa ongelmia jne. Tarkempaa vertailua aiheesta löytyy paljonkin googlettaessa esim. Gatsby vs [Next](https://nextjs.org/) tai [Hugo](https://gohugo.io/), jotka ovat seuraavaksi suosituimpia SSG:ita.
 
-3. Valitse itsellesi sopiva [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system). Itse en oikeastaan valinnut mitään, vaan käytin default Git tiedosto pohjaista sisällön muokkaamista eli suomeksi muokkaat suoraan tiedostoja, joista generoituu nettisivu. En myöskään viitsinyt opetella mitään uutta ja tämä yksinkertainen tapa toimii *Stackbit Studion* kanssa kuin unelma.
+3. Valitse itsellesi sopiva [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system). Itse en oikeastaan valinnut mitään, vaan käytin default Git tiedosto pohjaista sisällön muokkaamista eli suomeksi muokkaat suoraan tiedostoja, joista generoituu nettisivu. En myöskään viitsinyt opetella mitään uutta ja tämä yksinkertainen tapa toimii Stackbit Studion kanssa kuin unelma.
 
 4. Keksi projektillesi sopiva nimi ja luo nettisivu!
 
 Sitten vaan luomaan sisältöä Stackbit Studiolla! Kuva, tai ainakin GIF, kertoo enemmän kuin tuhat sanaa.
 ![Stackbit studion avulla sisällön muokkaamista](/images/stackbit-studio-editing.gif)
+
+Itselleni tuli luonnostaan sisällön muokkaaminen ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaatio](https://www.stackbit.com/docs/using-stackbit/editing-content/) videotutoriaaleineen on hyvä siinä.
