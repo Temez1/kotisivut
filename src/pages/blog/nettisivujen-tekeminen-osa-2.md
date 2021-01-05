@@ -28,7 +28,7 @@ Sitten vaan luomaan sisältöä Stackbit Studiolla! Kuva, tai ainakin GIF, kerto
 Sisällön muokkaaminen on siis todella helppoa ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Sitä tarvitsi lähinnä kuvien lisäämiseen tekstin sekaan, mikä toimii käytännössä syntaksilla
 
 ```
-![[alt-text](https://www.stackbit.com/docs/using-stackbit/editing-content/#image_editing)](/images/kuvannimi.png)
+![alt-text](/images/kuvannimi.png)
 ```
 
 missä kuvannimi.png on [uploadaamasi](https://www.stackbit.com/docs/using-stackbit/editing-content/#image_editing) kuva.
