@@ -2,10 +2,7 @@
 title: Nettisivujen tekeminen osa 1
 subtitle: ''
 date: '2021-01-04'
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+excerpt: ''
 template: post
 thumb_image: images/stackbit-logo.png
 ---
