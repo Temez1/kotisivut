@@ -25,7 +25,15 @@ Kuten aiemmassa osassa mainitsin Stackbit on kaiken kattava palvelu, joka tarjoa
 Sitten vaan luomaan sisältöä Stackbit Studiolla! Kuva, tai ainakin GIF, kertoo enemmän kuin tuhat sanaa.
 ![Stackbit studion avulla sisällön muokkaamista](/images/stackbit-studio-editing.gif)
 
-Itselleni tuli luonnostaan sisällön muokkaaminen ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaatio](https://www.stackbit.com/docs/using-stackbit/editing-content/) videotutoriaaleineen on hyvä siinä.
+Sisällön muokkaaminen on siis todella helppoa ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Sitä tarvitsi lähinnä kuvien lisäämiseen tekstin sekaan, mikä toimii käytännössä syntaksilla
+
+```
+![Vaihtoehtoinen eli "alt-teksti", kuvaa kuvaa teksti muodossa](/images/kuvannimi.png)
+```
+
+missä kuvannimi.png on [uploadaamasi](https://www.stackbit.com/docs/using-stackbit/editing-content/#image_editing) kuva.
+
+Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaatio](https://www.stackbit.com/docs/using-stackbit/editing-content/) videotutoriaaleineen on hyvä siinä.
 
 ## Suorituskyky
 
