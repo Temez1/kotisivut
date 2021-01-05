@@ -31,7 +31,7 @@ Sisällön muokkaaminen on siis todella helppoa ja [markdown](https://en.wikiped
 ![alt-text](/images/kuvannimi.png)
 ```
 
-,missä "kuvannimi.png" on [lähettämäsi](https://www.stackbit.com/docs/using-stackbit/editing-content/#image_editing) kuvan nimi kotikoneeltasi ja [alt-text](https://www.saavutettavasti.fi/kuva-ja-aani/kuvat/) on kuvan kuvateksti.
+,missä "kuvannimi.png" on [lähettämäsi](https://www.stackbit.com/docs/using-stackbit/editing-content/#image_editing) kuvan nimi kotikoneeltasi ja [alt-text](https://www.saavutettavasti.fi/kuva-ja-aani/kuvat/) on kuvaa kuvaava teksti.
 
 Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaatio](https://www.stackbit.com/docs/using-stackbit/editing-content/) videotutoriaaleineen on hyvä siinä.
 
