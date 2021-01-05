@@ -9,8 +9,6 @@ excerpt: >-
 template: post
 thumb_image: images/stackbit-logo.png
 ---
-[linkki](#taustaa)
-
 ## Taustaa
 
 En ole koskaan tehnyt nettisivuja aiemmin. Oma web taustani on lähinnä harrastuneisuutta Upskillin [Ruby on rails](https://github.com/Temez1/upskill_saas_tutorial) ja Helsingin yliopiston [fullstack](https://github.com/Temez1/fullstackOpen2019) kurssin muodossa eli en aivan noviisi kuitenkaan ole. Viime kesän kesätöitä en laske mukaan, koska syvään päähän Kubernetes, Docker, Jenkins ja Ansible maailmaan syventyminen ei suoraan auta tässä yhteydessä.
