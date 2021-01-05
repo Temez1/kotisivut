@@ -11,7 +11,7 @@ thumb_image: images/stackbit-logo.png
 ---
 Nettisivujen tekeminen on oikeasti helppoa ja vieläpä ilmaista. Tämä osa käsittelee osaamistasoni, työkalujen valintaa ja työkaluksi valitun Stackbitin ominaisuuksia.
 
-Seuraavassa osassa käsittelen varsinaiseen toteutukseen liittyvät asiat.
+Seuraavassa osassa käsittelen varsinaiseen toteutukseen liittyvät asiat. Eli mikäli tekninen jargon ja muut höpötyksen eivät kiinnosta niin siirry eteenpäin.
 
 ## Osaamistasoni
 
