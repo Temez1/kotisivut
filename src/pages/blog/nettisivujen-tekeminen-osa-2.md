@@ -1,7 +1,7 @@
 ---
 title: Nettisivujen tekeminen osa 2
 subtitle: ''
-date: '2021-01-04'
+date: '2021-01-05'
 excerpt: >-
   Nettisivujen tekeminen on oikeasti helppoa ja vieläpä ilmaista. Tämä osa
   käsittelee osaamistasoni, työkalujen valintaa ja työkaluksi valitun Stackbitin
