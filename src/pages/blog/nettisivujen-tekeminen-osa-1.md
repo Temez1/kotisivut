@@ -13,6 +13,7 @@ Nettisivujen tekeminen on oikeasti helppoa ja vieläpä ilmaista. Tämä osa kä
 
 Seuraavassa osassa käsittelen varsinaiseen toteutukseen liittyvät asiat. Eli mikäli tekninen jargon ja muut höpötyksen eivät kiinnosta niin siirry eteenpäin.
 
+[Osa 2 Tuumasta toimeen](/blog/nettisivujen-tekeminen-osa-2/)
 ## Osaamistasoni
 
 En ole koskaan tehnyt nettisivuja aiemmin. Oma web taustani on lähinnä harrastuneisuutta Upskillin [Ruby on rails](https://github.com/Temez1/upskill_saas_tutorial) ja Helsingin yliopiston [fullstack](https://github.com/Temez1/fullstackOpen2019) kurssin muodossa eli en aivan noviisi kuitenkaan ole. Viime kesän kesätöitä en laske mukaan, koska syvään päähän Kubernetes, Docker, Jenkins ja Ansible maailmaan syventyminen ei suoraan auta tässä yhteydessä.
