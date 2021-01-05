@@ -22,3 +22,5 @@ Kuten aiemmassa osassa mainitsin Stackbit on kaiken kattava palvelu, joka tarjoa
 
 4. Keksi projektillesi sopiva nimi ja luo nettisivu!
 
+Sitten vaan luomaan sisältöä Stackbit Studiolla! Kuva tai ainakin GIF kertoo enemmän kuin tuhat sanaa.
+![Stackbit studion avulla sisällön muokkaamista]()
