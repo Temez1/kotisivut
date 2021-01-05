@@ -9,7 +9,7 @@ excerpt: >-
 template: post
 thumb_image: images/stackbit-logo.png
 ---
-[linkki](#taustaa)
+[linkki](#/taustaa)
 
 ## Taustaa
 
