@@ -27,7 +27,7 @@ Sitten vaan luomaan sisältöä Stackbit Studiolla! Kuva, tai ainakin GIF, kerto
 
 Itselleni tuli luonnostaan sisällön muokkaaminen ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaatio](https://www.stackbit.com/docs/using-stackbit/editing-content/) videotutoriaaleineen on hyvä siinä.
 
-Vinkki mitä tulee nettisivujen tehokkuuteen on: Pakkaa kuvasi.
+Vinkki mitä tulee nettisivujen suorituskykyyn on: Pakkaa kuvasi ja pidä niiden resoluutio järkevänä niiden näkyvään kokoon verrattuna. Eli suomeksi ei ole mitään järkeä upottaa 4K kuvia esikatselukuvaan, joka on rajattu näkymään esimerkiksi 400x200 kokoisella alueella.
 
 Kuvat ovat varmaan rajuin asia, millä voi tehdä hyvin hitaita sivuja. Tämä johtuu siitä, että ylisuuret kuvat kestävät latautua pitkään, eikä niiden odottelu ole kovin mielekästä puuhaa. Tämän sivun pohjissa olikin valmiiksi jo paikat sekä pienelle esikatselu-, että itse artikkelin suuremmalle kuvalle. Näin ollen kannattaa sama kuva tarjota sekä korkea-, että matalaresoluutioisena. Itse käytin vanhaa kunnon Painttia tähän yksinkertaiseen kuvien muokkaamiseen. Lopuksi pakkasin vielä kuvat [TinyPNG](https://tinypng.com/):llä, joka ei ainakaan omiin silmiin huonontanut kuvia, vaikka pienensi niitä keskimäärin 30-50 prosenttia!
 
