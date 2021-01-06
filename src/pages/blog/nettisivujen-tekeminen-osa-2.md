@@ -70,5 +70,5 @@ Mainittakoon vielä, että Stackbitin hinnoittelu on vielä epäselvää, mutta 
 
 > However, we'll always offer a free plan for personal websites in support of a modern, open web. If you're currently working on a free project, your site will remain free with all existing features, even when we finish introducing our pricing.
 
-Jokaiselle varmasti tulee jotakin vastaan. Toivottavasti ei mitään ylitsepääsemätöntä mistä ei selviä googlen avulla.
+Jokaiselle varmasti tulee joitakin ongelmia vastaan. Toivottavasti ei mitään ylitsepääsemätöntä mistä ei selviä googlen avulla.
 Mikäli näin on, tai heräsi jotain kommentoitavaa, niin [ota yhteyttä](/yhteystiedot). Voin näin ollen lisätä tähän postaukseen asioita mitä ei itselleni tullut mieleen.
