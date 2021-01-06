@@ -46,7 +46,7 @@ Näin ollen kannattaa sama kuva tarjota sekä korkea-, että matalaresoluutioise
 
 Lopuksi kannattaa vielä ajaa nettisivut Googlen [Lighthouse](https://developers.google.com/web/tools/lighthouse) tuotteen avulla. Se automaattisesti etsii pahimmat virheet ja tarjoaa analyysin nettisivuistasi. Voit tehdä sen suoraan [selaimessa](https://developers.google.com/speed/pagespeed/insights/). Kannattaa kiinnittää huomiota erityisesti mobiilianalyysin tulokseen, sillä mobiili on nykyään lähes puolet käytöstä Suomessa ainakin jonkun [tilaston](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/finland) mukaan. Ja sitä suurempi syy on se, että mobiililla suorituskyky ja latausajat ovat kriittisempiä kuin kotikoneella useimmiten. Riippuen toki kodin yhteyksistä.
 
-Omiin tuloksiini olin tyytyväinen. Ei näitäkään kannata liikaa tuijotella, vaan ottaa enemmänkin suuntaa antavana ja lukea hiukan mitä työkalu löytää kritisoitavaa nettisivuista. Kannattaa myös huomata, että aivan stabiili ei työkalu myöskään ole ja tulokset muuttuvat hiukan ajokertojen välillä. Toinen hyvä tarkastutyökalu on [dead link checker](https://www.deadlinkchecker.com/), mikä tarkastaa nettisivusi linkit, että ne ovat toimivia.
+Omiin tuloksiini olin tyytyväinen. Ei näitäkään kannata liikaa tuijotella, vaan ottaa enemmänkin suuntaa antavana ja lukea hiukan mitä työkalu löytää kritisoitavaa nettisivuista. Kannattaa myös huomata, että aivan stabiili ei työkalu myöskään ole ja tulokset muuttuvat hiukan ajokertojen välillä. Toinen hyvä työkalu on [dead link checker](https://www.deadlinkchecker.com/) mikä varmistaa nettisivujesi linkkien toimivuuden. Virheelliset linkit ovat aina epämiellyttäviä.
 
 Mobiili
 
