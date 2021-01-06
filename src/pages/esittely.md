@@ -76,9 +76,8 @@ sections:
 
 
       Olen kiinnostunut monipuolisesti erilaisista asioista. Tämä näkyy niin
-      laajassa musiikkimaussani, kuin kokeilemissani asioissa. Sukeltaminen,
-      benjihyppy, purjehtiminen,  kirjat (pääosin tietokirjallisuus),
-      triathlon...
+      laajassa musiikkimaussani, kuin harrastamissani/kokeilemissani asioissa.
+      Sukeltaminen, benjihyppy, purjehtiminen, triathlon...
 
 
       Olen intohimoinen asioista mistä olen kiinnostunut, panostan täysillä ja
