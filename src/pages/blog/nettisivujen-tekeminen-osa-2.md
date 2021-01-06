@@ -68,7 +68,7 @@ Voit käyttää domainhotellin omaa DNS eli suomeksi nimipalvelinta (Nimipalveli
 
 Jälleen kerran kannattaa lukea ohjeet kertaalleen läpi ennen aloittamista.
 
-1. Rekisteröidy Netlify palveluun avaamalla Stackbit Studion oikeassa yläkulmassa oleva "Settings" kohta ja  painamalla "Claim Netlify Project".
+1. Rekisteröidy Netlify palveluun avaamalla Stackbit Studion oikeassa yläkulmassa oleva "Settings" kohta ja  painamalla "Claim Netlify Project". Tämä onnistuu käyttämällä esimerkiksi GitHub tunnusta. Voit luoda senkin ilmaiseksi kun painat GitHub ja sen jälkeen Create an account.
 2. Keksi itsellesi sopiva verkkotunnus ja tarkista sen saatavuus etsimällä sitä esimerkiksi [Domainhotelli](https://www.domainhotelli.fi/):sta.
 3. Siirry tilaamaan valitsemaasi verkkotunnusta. Tässä vaiheessa voit säätää nimipalvelimen osoitteen käyttämään Netlifyn nimipalvelinta, mikäli haluat itsellesi aiemmin mainitsemani ilmaisen sertifikaatin sivustollesi. Suosittelen.
 4. (Netlifyn nimipalvelin käyttöön). 
