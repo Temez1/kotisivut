@@ -11,7 +11,7 @@ thumb_image: images/stackbit-logo.png
 Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen, nettisivujen suorituskykyyn liittyvät aspektit ja lopuksi yhteenveto.
 
 ## Nettisivujen ["Hello world"](https://www.urbandictionary.com/define.php?term=hello%20world)
-Kuten aiemmassa osassa mainitsin Stackbit on kaiken kattava palvelu, joka tarjoaa kaiken alusta loppuun nettisivujen tekemiseksi. Ei ole oikeastaan montaa asiaa, mitä jää edes itse tehtäväksi. Työnkulun voi tiivistää oikeastaan pariin askeleeseen. Ennen kuin stressaat teknista jargonia niin mainitsen jo nyt, että minun ei tarvinnut kirjoittaa riviäkään koodia eli kaiken pystyi tekemään ilman minkäänlaista teknistä kokemusta. Loppujen lopuksi ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta.
+Kuten aiemmassa osassa mainitsin Stackbit on kaiken yhdistävä palvelu, joka tarjoaa kaiken alusta loppuun nettisivujen tekemiseksi. Ei ole oikeastaan montaa asiaa, mitä jää edes itse tehtäväksi. Työnkulun voi tiivistää oikeastaan pariin askeleeseen. Ennen kuin stressaat teknista jargonia niin mainitsen jo nyt, että minun ei tarvinnut kirjoittaa riviäkään koodia eli kaiken pystyi tekemään ilman minkäänlaista teknistä kokemusta. Loppujen lopuksi ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta.
 
 1. Valitse pohja/teema mistä lähdet rakentamaan sivuasi. Tämän sivun pohjaksi valitsin Stackbitin [Exto](https://themes.stackbit.com/demos/exto/) teeman.
 
