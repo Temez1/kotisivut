@@ -66,6 +66,7 @@ Mikäli haluat persoonallisen verkkotunnuksen, pitää sinun valitettavasti maks
 
 Voit käyttää domainhotellin omaa DNS eli suomeksi nimipalvelinta (Nimipalvelin yksinkertaisesti muuttaa nimesi IP osoitteeksi, joka on siis numeerinen osoite, jota tietokoneet käyttävät kommunikoimiseen keskenään.). Itse kuitenkin halusin käyttää Netlifyn omaa nimipalvelinta, jotta saan automaattisesti ja ilmaiseksi luodun [sertifikaatin](https://docs.netlify.com/domains-https/https-ssl/), joka tarkoittaa turvattua yhteyttä ja esimerkiksi parempaa [SEO](https://fi.wikipedia.org/wiki/Hakukoneoptimointi):ta eli hakukoneoptimointia.
 
+Jälleen kerran kannattaa lukea ohjeet kertaalleen läpi ennen aloittamista.
 
 
 ## Loppusanat
