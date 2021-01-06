@@ -66,7 +66,7 @@ Tein videon, kuinka tämä käytännössä tapahtuu. [Katso video](https://youtu
 
 Kokemukseni Stackbitin käytöstä oli yllättävän sulava. Kaikki kriittiset toiminnot toimivat ja pienet säädöt olivat suhteellisen kivuttomia. Stackbit Studion käytettävyys oli mielestäni erinomainen, vaikkakin jotkin asiat aiheuttivat aluksi hämmennystä. Kuten aiemmin mainitsemani Featured Imagen ja Alternative Featured Imagen ero. Tämäkin kuitenkin selvisi yrityksen ja erehdyksen kautta.
 
-Mainittakoon vielä, että Stackbitin hinnoittelu on vielä epäselvää, mutta he ovat omien sanojensa mukaan luvanneet, että harrastelumeininkiin palvelu tulee pysymään ilmaisena.
+Mainittakoon, että Stackbitin hinnoittelu on vielä epäselvää, mutta he ovat omien sanojensa mukaan luvanneet, että harrastelumeininkiin palvelu tulee pysymään ilmaisena.
 
 > However, we'll always offer a free plan for personal websites in support of a modern, open web. If you're currently working on a free project, your site will remain free with all existing features, even when we finish introducing our pricing.
 
