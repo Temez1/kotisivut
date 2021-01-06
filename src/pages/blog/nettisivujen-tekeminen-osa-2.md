@@ -48,11 +48,11 @@ Lopuksi kannattaa vielä ajaa nettisivut Googlen [Lighthouse](https://developers
 
 Omiin tuloksiini olin tyytyväinen. Ei näitäkään kannata liikaa tuijotella, vaan ottaa enemmänkin suuntaa antavana ja lukea hiukan mitä työkalu löytää kritisoitavaa nettisivuista. Kannattaa myös huomata, että aivan stabiili ei työkalu myöskään ole ja tulokset muuttuvat hiukan ajokertojen välillä. Toinen hyvä työkalu on [dead link checker](https://www.deadlinkchecker.com/) mikä varmistaa nettisivujesi linkkien toimivuuden. Virheelliset linkit ovat aina epämiellyttäviä.
 
-Mobiili
+Lighthousen tulos mobiililla
 
 ![Lighthousen tulos mobiililla](/images/lighthouse-mobile.png)
 
-Pöytäkone
+Lighthousen tulos pöytäkoneella
 
 
 ![Lighthousen tulos pöytäkoneella](/images/lighthouse-desktop.png)
