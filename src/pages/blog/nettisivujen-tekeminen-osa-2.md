@@ -3,9 +3,8 @@ title: Nettisivujen tekeminen osa 2
 subtitle: ''
 date: '2021-01-05'
 excerpt: >-
-  Nettisivujen tekeminen on oikeasti helppoa ja vieläpä ilmaista. Tämä osa
-  käsittelee osaamistasoni, työkalujen valintaa ja työkaluksi valitun Stackbitin
-  ominaisuuksia.
+  Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen,
+  nettisivujen suorituskykyyn liittyvät aspektit ja lopuksi yhteenveto.
 template: post
 thumb_image: images/stackbit-logo.png
 ---
