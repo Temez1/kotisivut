@@ -20,7 +20,7 @@ sections:
         type: action
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       ## Lorem ipsum
 
