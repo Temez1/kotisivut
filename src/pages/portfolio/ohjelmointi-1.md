@@ -2,8 +2,9 @@
 title: Ohjelmointi 1 Projekti
 subtitle: ''
 excerpt: >-
-  Sain idean tehdä pelin työnhakemisesta kun hain töitä. Pelin tarkoitus on
-  kerätä CV:n palaset yhteen voittaaksesi pelin.
+  [***Texas Hold'em***](https://fi.wikipedia.org/wiki/Texas_hold_%E2%80%99em) on
+  mahdollisesti jo ennestään tuttu peli. Tämä tuli toteutettua ensimmäisen
+  ohjelmointikurssin päätösprojektina.
 date: '2019-08-06'
 template: project
 thumb_image: images/texas-holdem-thumb.png
