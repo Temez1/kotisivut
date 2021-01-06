@@ -54,7 +54,6 @@ Lighthousen tulos mobiililla
 
 Lighthousen tulos pöytäkoneella
 
-
 ![Lighthousen tulos pöytäkoneella. Performance 99, Accessibility 93, Best Practices 93 ja SEO 100. Asteikolla nollasta sataan.](/images/lighthouse-desktop.png)
 
 ## Loppusanat
