@@ -50,12 +50,12 @@ Omiin tuloksiini olin tyytyväinen. Ei näitäkään kannata liikaa tuijotella, 
 
 Lighthousen tulos mobiililla
 
-![Lighthousen tulos mobiililla. Perforamnce 90, Accessibility 94, Best Practices ](/images/lighthouse-mobile.png)
+![Lighthousen tulos mobiililla. Performance 90, Accessibility 94, Best Practices 93 ja SEO 100. Asteikolla nollasta sataan.](/images/lighthouse-mobile.png)
 
 Lighthousen tulos pöytäkoneella
 
 
-![Lighthousen tulos pöytäkoneella](/images/lighthouse-desktop.png)
+![Lighthousen tulos pöytäkoneella. Performance 90, Accessibility 94, Best Practices 93 ja SEO 100. Asteikolla nollasta sataan.](/images/lighthouse-desktop.png)
 
 ## Loppusanat
 
