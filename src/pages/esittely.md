@@ -66,7 +66,11 @@ sections:
     section_id: kuka
     subtitle: ''
     content: >-
+      ![Omakuva](/images/omakuva.jpeg)
+
+
       ## Lorem ipsum
+
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
