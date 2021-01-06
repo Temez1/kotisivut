@@ -13,7 +13,7 @@ Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen, ne
 [Osa 1, Jodanto](/blog/nettisivujen-tekeminen-osa-1)
 
 ## Nettisivujen ["Hello world"](https://www.urbandictionary.com/define.php?term=hello%20world)
-Kuten aiemmassa osassa mainitsin Stackbit on kaiken yhdistävä palvelu, joka tarjoaa kaiken alusta loppuun nettisivujen tekemiseksi. Ei ole oikeastaan montaa asiaa, mitä jää edes itse tehtäväksi. Työnkulun voi tiivistää oikeastaan pariin askeleeseen. Ennen kuin stressaat teknista jargonia niin mainitsen jo nyt, että minun ei tarvinnut kirjoittaa riviäkään koodia eli kaiken pystyi tekemään ilman minkäänlaista teknistä kokemusta. Loppujen lopuksi ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta. Lue ohjeet kertaalleen läpi ennen kuin teet.
+Kuten aiemmassa osassa mainitsin Stackbit on kaiken yhdistävä palvelu, joka tarjoaa kaiken alusta loppuun nettisivujen tekemiseksi. Ei ole oikeastaan montaa asiaa, mitä jää edes itse tehtäväksi. Työnkulun voi tiivistää oikeastaan pariin askeleeseen. Ennen kuin stressaat teknista jargonia niin mainitsen jo nyt, että minun ei tarvinnut kirjoittaa riviäkään koodia eli kaiken pystyi tekemään ilman minkäänlaista teknistä kokemusta. Loppujen lopuksi ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta. Kannattaa lukea ohjeet kertaalleen läpi ennen aloittamista.
 
 1. Mene [Stackbitin osoitteeseen](https://app.stackbit.com/create)
 
