@@ -83,7 +83,7 @@ sections:
 
       Olen intohimoinen asioista mistä olen kiinnostunut, panostan täysillä ja
       saavutan määrätietoisesti ( tai kihlattuni mukaan jääräpäisesti)
-      tavoitteita. 
+      tavoitteita. Projekteissa olen yhteistyökykyinen johtaja.
     actions: []
     type: section_content
 template: advanced
