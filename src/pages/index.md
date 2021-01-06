@@ -19,7 +19,7 @@ sections:
         new_window: false
         type: action
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: seittely
     subtitle: ''
     content: >-
       ## Lorem ipsum
