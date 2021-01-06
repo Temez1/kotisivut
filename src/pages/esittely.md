@@ -75,12 +75,15 @@ sections:
       projektien parissa. Vapaa-ajallani pelaan ja urheilen.
 
 
-      Olen kiinnostunut monestakin eri asiasta: Sukeltaminen, benjihyppy, kirjat
-      (pääosin tietokirjallisuus), Triathlon
+      Olen kiinnostunut monipuolisesti erilaisista asioista. Tämä näkyy niin
+      laajassa musiikkimaussani, kuin kokeilemissani asioissa. Sukeltaminen,
+      benjihyppy, purjehtiminen,  kirjat (pääosin tietokirjallisuus),
+      triathlon...
 
 
       Olen intohimoinen asioista mistä olen kiinnostunut, panostan täysillä ja
-      saavutan jääräpäisesti tavoitteita. 
+      saavutan määrätietoisesti ( tai kihlattuni mukaan jääräpäisesti)
+      tavoitteita. 
     actions: []
     type: section_content
 template: advanced
