@@ -38,13 +38,13 @@ Mikäli tarvitsee apua Stackbit Studion käyttöön, niin [Stackbitin dokumentaa
 
 ## Suorituskyky
 
-Vinkki mitä tulee nettisivujen suorituskykyyn on: Pakkaa kuvasi ja pidä niiden resoluutio järkevänä niiden näkyvään kokoon verrattuna. Eli suomeksi ei ole mitään järkeä upottaa 4K kuvia esikatselukuvaan, joka on rajattu näkymään esimerkiksi 400x200 kokoisella alueella.
+Vinkki mitä tulee nettisivujen suorituskykyyn on: Pakkaa kuvasi ja pidä niiden resoluutio järkevänä niiden näkyvään kokoon verrattuna. Eli suomeksi ei ole mitään järkeä upottaa 4K kuvia esikatselukuvaan, joka on rajattu näkymään esimerkiksi 400x200 kokoisella alueella. Nyrkkisääntönä tiedostomuodolle on: .png kuville, joissa on suoria linjoja (tällä sivustolla kuvankaappaukset, logot joissa tekstiä yms.) ja .jpg valokuville.
 
 Kuvat ovat varmaan rajuin asia, millä voi tehdä hyvin hitaita sivuja. Tämä johtuu siitä, että ylisuuret kuvat kestävät latautua pitkään, eikä niiden odottelu ole kovin mielekästä puuhaa. Tämän sivun pohjissa olikin valmiiksi jo paikat sekä pienelle esikatselukuvalle (eng. thumbnail), että itse artikkelin suuremmalle kuvalle. Eli alla olevassa kuvankaappauksessa näkyvät "Featured Image" (esikatselukuva) ja Alternative Featured Image (eli esimerkiksi portfolioni [projektin kuva](/portfolio/ohjelmointi-3/))
 
 ![Kuvankaappaus Stackbit Studio editorista, jossa näkyy esikatselukuvan ja artikkelin suuremman kuvan sijainnit.](/images/featured-and-alternative-image-screenshot.png)
 
-Näin ollen kannattaa sama kuva tarjota sekä korkea-, että matalaresoluutioisena. Itse käytin vanhaa kunnon Paint:ia tähän yksinkertaiseen kuvien muokkaamiseen. Lopuksi pakkasin vielä kuvat [TinyPNG](https://tinypng.com/):llä, joka ei ainakaan omiin silmiin huonontanut kuvia, vaikka pienensi niitä keskimäärin 30-60 prosenttia!
+Näin ollen kannattaa sama kuva tarjota sekä korkea-, että matalaresoluutioisena. Itse käytin vanhaa kunnon Paint:ia tähän yksinkertaiseen kuvien muokkaamiseen. Lopuksi pakkasin vielä kuvat [TinyPNG](https://tinypng.com/):llä, joka ei ainakaan omiin silmiin huonontanut kuvia liikaa, vaikka pienensi niitä keskimäärin 40-60 prosenttia!
 
 Lopuksi kannattaa vielä ajaa nettisivut Googlen [Lighthouse](https://developers.google.com/web/tools/lighthouse) tuotteen avulla. Se automaattisesti etsii pahimmat virheet ja tarjoaa analyysin nettisivuistasi. Voit tehdä sen suoraan [selaimessa](https://developers.google.com/speed/pagespeed/insights/). Kannattaa kiinnittää huomiota erityisesti mobiilianalyysin tulokseen, sillä mobiili on nykyään lähes puolet käytöstä Suomessa ainakin jonkun [tilaston](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/finland) mukaan. Ja sitä suurempi syy on se, että mobiililla suorituskyky ja latausajat ovat kriittisempiä kuin kotikoneella useimmiten. Riippuen toki kodin yhteyksistä.
 

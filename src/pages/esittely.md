@@ -63,7 +63,7 @@ sections:
         image: images/progress.png
     type: section_grid
   - title: Kuka?
-    section_id: lorem-ipsum
+    section_id: kuka
     subtitle: ''
     content: >-
       ## Lorem ipsum
