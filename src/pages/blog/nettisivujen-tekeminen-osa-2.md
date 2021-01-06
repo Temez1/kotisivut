@@ -8,7 +8,7 @@ excerpt: >-
 template: post
 thumb_image: images/stackbit-logo.png
 ---
-Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen, nettisivujen suorituskykyyn liittyvät aspektit ja lopuksi yhteenveto. Aiemmassa osassa oli johdantoa aiheeseen. Sen lukeminen ei ole välttämätöntä tämän osan kannalta, mutta mikäli kiinnostaa tietää enemmän esimerkiksi osaamistasostani, niin aloita siitä.
+Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen, nettisivujen suorituskykyyn liittyvät aspektit, oman domainin hankkiminen ja lopuksi yhteenveto. Aiemmassa osassa oli johdantoa aiheeseen. Sen lukeminen ei ole välttämätöntä tämän osan kannalta, mutta mikäli kiinnostaa tietää enemmän esimerkiksi osaamistasostani, niin aloita siitä.
 
 [Osa 1, Jodanto](/blog/nettisivujen-tekeminen-osa-1)
 
