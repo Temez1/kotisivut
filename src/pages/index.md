@@ -18,7 +18,7 @@ sections:
         icon_class: ''
         new_window: false
         type: action
-  - title: lorem-ipsum
+  - title: Kuka?
     section_id: esittely
     subtitle: ''
     content: >-
