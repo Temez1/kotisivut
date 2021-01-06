@@ -33,6 +33,4 @@ Tarjolla olisi myös Beta vaiheessa oleva [A/B testaus](https://www.stackbit.com
 
 [Hosting](https://fi.wikipedia.org/wiki/Webhotelli) on myös ilmaista [Netlify](https://www.netlify.com/):llä 100 GB:iin/kuukausi asti. Kaiken lisäksi Stackbitin käyttö on mahdollista monella eri [static site generaattorilla](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/) (SSG) ja [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system):llä, ei pelkästään käyttämälläni [Gatsbyllä](https://www.gatsbyjs.com/) ja suoraan editoimalla Git tiedostoja Stackbit Studiolla.
 
-Sitten vaan eteenpäin.
-
-[Osa 2, Tuumasta toimeen](/blog/nettisivujen-tekeminen-osa-2/)
+Sitten vaan eteenpäin. [Osa 2, Tuumasta toimeen](/blog/nettisivujen-tekeminen-osa-2/)
