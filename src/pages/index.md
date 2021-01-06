@@ -18,22 +18,6 @@ sections:
         icon_class: ''
         new_window: false
         type: action
-  - title: Kuka?
-    section_id: esittely
-    subtitle: ''
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: section_content
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
