@@ -75,9 +75,11 @@ Jälleen kerran kannattaa lukea ohjeet kertaalleen läpi ennen aloittamista.
 
 ## Loppusanat
 
-Kokemukseni Stackbitin käytöstä oli yllättävän sulava. Kaikki kriittiset toiminnot toimivat ja pienet säädöt sai säädettyä suhteellisen kivuttomasti. Stackbit Studion käytettävyys oli mielestäni erinomainen, vaikkakin jotkin asiat aiheuttivat aluksi hämmennystä. Kuten aiemmin mainitsemani Featured Imagen ja Alternative Featured Imagen ero. Tämäkin kuitenkin selvisi tutulla trial and error meiningillä.
+Kokemukseni Stackbitin käytöstä oli yllättävän sulava. Kaikki kriittiset toiminnot toimivat ja pienet säädöt sai säädettyä suhteellisen kivuttomasti. Stackbit Studion käytettävyys oli mielestäni erinomainen, vaikkakin jotkin asiat aiheuttivat aluksi hämmennystä. Kuten aiemmin mainitsemani Featured Imagen ja Alternative Featured Imagen ero. Tämäkin kuitenkin selvisi yrityksen ja erehdyksen kautta.
 
+Mainittakoon vielä, että Stackbitin hinnoittelu on vielä epäselvää, mutta he ovat omien sanojensa mukaan luvanneet, että harrastelumeininkiin palvelu tulee pysymään ilmaisena.
 
+> However, we'll always offer a free plan for personal websites in support of a modern, open web. If you're currently working on a free project, your site will remain free with all existing features, even when we finish introducing our pricing.
 
 Jokaiselle varmasti tulee jotakin vastaan. Toivottavasti ei mitään ylitsepääsemätöntä mistä ei selviä googlen avulla.
 Mikäli näin on, tai heräsi jotain kommentoitavaa, niin [ota yhteyttä](/yhteystiedot). Voin näin ollen lisätä tähän postaukseen asioita mitä ei itselleni tullut mieleen.
