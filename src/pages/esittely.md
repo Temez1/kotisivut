@@ -70,8 +70,17 @@ sections:
 
 
       Olen 22-vuotias ja kotoisin Lempäälästä. Nykyään asun Hervannassa
-      kihlattuni kanssa. Aikani kuluu pääosin koulutöiden ja projektien parissa.
-      Vapaa-ajallani pelaan ja urheilen.
+      kihlattuni kanssa. Opiskelen pääaineena ohjelmistotekniikkaa ja
+      sivuaineena teollisuustaloutta. Aikani kuluu pääosin koulutöiden ja
+      projektien parissa. Vapaa-ajallani pelaan ja urheilen.
+
+
+      Olen kiinnostunut monestakin eri asiasta: Sukeltaminen, benjihyppy, kirjat
+      (pääosin tietokirjallisuus), Triathlon
+
+
+      Olen intohimoinen asioista mistä olen kiinnostunut, panostan täysillä ja
+      saavutan jääräpäisesti tavoitteita. 
     actions: []
     type: section_content
 template: advanced
