@@ -12,7 +12,7 @@ sections:
 
       Tai sitten voit vaan lukea esittelyni.
     actions:
-      - label: Lyhyt Historiani
+      - label: Esittely
         url: esittely
         style: button
         icon_class: ''
