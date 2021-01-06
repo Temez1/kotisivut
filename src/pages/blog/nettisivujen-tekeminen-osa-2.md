@@ -4,7 +4,8 @@ subtitle: ''
 date: '2021-01-05'
 excerpt: >-
   Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen,
-  nettisivujen suorituskykyyn liittyvät aspektit ja lopuksi yhteenveto.
+  nettisivujen suorituskykyyn liittyvät aspektit, oman domainin hankkiminen ja
+  lopuksi yhteenveto.
 template: post
 thumb_image: images/stackbit-logo.png
 ---
