@@ -58,8 +58,14 @@ Lighthousen tulos pöytäkoneella
 
 ![Performance 99, Accessibility 93, Best Practices 93 ja SEO 100. Asteikolla nollasta sataan.](/images/lighthouse-desktop.png)
 
+## Oma domain eli verkkotunnus
+
+Mikäli haluat persoonallisen verkkotunnuksen, pitää sinun valitettavasti maksaa siitä. Se ei kuitenkaan paljoa maksa. Itse ostin omani 9€ vuosi hintaan [Domainhotellista](https://www.domainhotelli.fi/). Muista tarkistaa, että käyttämäsi domain on [ohjeiden](https://www.traficom.fi/fi/viestinta/fi-verkkotunnukset/millainen-hyva-verkkotunnus) mukainen, luultavasti on ellei joku ole rekisteröinyt haluamaasi verkkotunnusta esimerkiksi yrityksen nimenä. Tälläiset tapaukset ovat luultavasti harvinaisia.
+
+Sitten pieni konfiguraatio-operaatio suoritettavana. Eli voit käyttää domainhotellin omaa DNS eli suomeksi nimipalvelinta (Nimipalvelin yksinkertaisesti muuttaa nimesi IP osoitteeksi, joka on siis numeerinen osoite, jota tietokoneet käyttävät kommunikoimiseen keskenään.). Itse kuitenkin halusin käyttää Netlifyn omaa nimipalvelinta, jotta saan automaattisesti ja ilmaiseksi luodun [sertifikaatin](https://docs.netlify.com/domains-https/https-ssl/), joka tarkoittaa turvattua yhteyttä ja esimerkiksi parempaa [SEO](https://fi.wikipedia.org/wiki/Hakukoneoptimointi):ta eli hakukoneoptimointia.
+
+
+
 ## Loppusanat
-
-
 
 Mikäli heräsi jotain kommentoitavaa, niin [ota yhteyttä](/yhteystiedot). Voin näin ollen lisätä tähän postaukseen asioita mitä ei itselleni tullut mieleen.
