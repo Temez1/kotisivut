@@ -10,7 +10,7 @@ sections:
       yhteystietoni.
 
 
-      Tai sitten voit vaan lukea lyhyen historiani.
+      Tai sitten voit vaan lukea esittelyni.
     actions:
       - label: Lyhyt Historiani
         url: lyhyt-historiani
