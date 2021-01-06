@@ -20,7 +20,7 @@ Kuten aiemmassa osassa mainitsin Stackbit on kaiken yhdistävä palvelu, joka ta
 
 2. Keksi projektillesi sopiva nimi ja luo nettisivu. Tämän tekemiseksi sinun pitää kirjautua Stackbitin palveluun. Voit tehdä tämän esimerkiksi Google tunnuksillasi.
 
-Ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta. [Tästä](https://youtu.be/QmkRRSNZtI4) minuutin kestävä video, miten aloitat nettisivujen luomisen [Stackbitin](https://www.stackbit.com/) avulla.
+Ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta. Tein minuutin kestävän videon, miten aloitat nettisivujen luomisen [Stackbitin](https://www.stackbit.com/) avulla. [Katso video](https://youtu.be/QmkRRSNZtI4) 
 
 Sisällön muokkaaminen on siis todella helppoa ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Sitä tarvitsi lähinnä kuvien lisäämiseen tekstin sekaan, mikä toimii käytännössä syntaksilla
 
