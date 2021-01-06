@@ -64,7 +64,7 @@ sections:
     type: section_grid
   - title: Kuka?
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       ## Lorem ipsum
 
