@@ -1,7 +1,7 @@
 ---
 title: Esittely
 hide_title: false
-excerpt: ''
+excerpt: 'Lyhyt historiani, sekä '
 sections:
   - title: Lyhyt Historiani
     section_id: lorem-ipsum
