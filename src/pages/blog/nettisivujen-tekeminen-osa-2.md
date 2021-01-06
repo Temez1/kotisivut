@@ -60,12 +60,9 @@ Mikäli haluat persoonallisen verkkotunnuksen, pitää sinun valitettavasti maks
 
 Voit käyttää domainhotellin omaa DNS eli suomeksi nimipalvelinta (Nimipalvelin yksinkertaisesti muuttaa nimesi IP osoitteeksi, joka on siis numeerinen osoite, jota tietokoneet käyttävät kommunikoimiseen keskenään.). Itse kuitenkin halusin käyttää Netlifyn omaa nimipalvelinta, jotta saan automaattisesti ja ilmaiseksi luodun [sertifikaatin](https://docs.netlify.com/domains-https/https-ssl/), joka tarkoittaa turvattua yhteyttä ja esimerkiksi parempaa [SEO](https://fi.wikipedia.org/wiki/Hakukoneoptimointi):ta eli hakukoneoptimointia.
 
-Jälleen kerran kannattaa lukea ohjeet kertaalleen läpi ennen aloittamista.
+Tein videon, kuinka tämä käytännössä tapahtuu.
 
-1. Rekisteröidy Netlify palveluun avaamalla Stackbit Studion oikeassa yläkulmassa oleva "Settings" kohta ja  painamalla "Claim Netlify Project". Tämä onnistuu käyttämällä esimerkiksi GitHub tunnusta. Voit luoda senkin ilmaiseksi kun painat GitHub ja sen jälkeen Create an account.
-2. Keksi itsellesi sopiva verkkotunnus ja tarkista sen saatavuus etsimällä sitä esimerkiksi [Domainhotelli](https://www.domainhotelli.fi/):sta.
-3. Siirry tilaamaan valitsemaasi verkkotunnusta. Tässä vaiheessa voit säätää nimipalvelimen osoitteen käyttämään Netlifyn nimipalvelinta, mikäli haluat itsellesi aiemmin mainitsemani ilmaisen sertifikaatin sivustollesi. Suosittelen.
-4. (Netlifyn nimipalvelin käyttöön). 
+[Katso video](https://youtu.be/rfcSv9lm5YQ)
 
 ## Loppusanat
 
