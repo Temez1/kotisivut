@@ -78,6 +78,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-    image: images/omakuva.jpeg
+    image: images/omakuva.png
 template: advanced
 ---
