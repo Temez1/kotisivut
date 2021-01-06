@@ -1,7 +1,7 @@
 ---
 title: Nettisivujen tekeminen osa 2
 subtitle: ''
-date: '2021-01-05'
+date: '2021-01-06'
 excerpt: >-
   Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen,
   nettisivujen suorituskykyyn liittyvät aspektit, oman domainin hankkiminen ja
