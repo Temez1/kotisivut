@@ -69,17 +69,9 @@ sections:
       ![Omakuva](/images/omakuva.jpeg)
 
 
-      ## Lorem ipsum
-
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Olen 22-vuotias mies kotoisin Lempäälästä. Nykyään asun Hervannassa
+      kihlattuni kanssa. Aikani kuluu pääosin koulutöiden ja projektien parissa.
+      Vapaa-ajallani pelaan ja urheilen.
     actions: []
     type: section_content
 template: advanced
