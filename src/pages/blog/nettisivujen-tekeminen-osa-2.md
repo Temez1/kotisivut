@@ -75,4 +75,9 @@ Jälleen kerran kannattaa lukea ohjeet kertaalleen läpi ennen aloittamista.
 
 ## Loppusanat
 
-Mikäli heräsi jotain kommentoitavaa, niin [ota yhteyttä](/yhteystiedot). Voin näin ollen lisätä tähän postaukseen asioita mitä ei itselleni tullut mieleen.
+Kokemukseni Stackbitin käytöstä oli yllättävän sulava. Kaikki kriittiset toiminnot toimivat ja pienet säädöt sai säädettyä suhteellisen kivuttomasti. Stackbit Studion käytettävyys oli mielestäni erinomainen, vaikkakin jotkin asiat aiheuttivat aluksi hämmennystä. Kuten aiemmin mainitsemani Featured Imagen ja Alternative Featured Imagen ero. Tämäkin kuitenkin selvisi tutulla trial and error meiningillä.
+
+
+
+Jokaiselle varmasti tulee jotakin vastaan. Toivottavasti ei mitään ylitsepääsemätöntä mistä ei selviä googlen avulla.
+Mikäli näin on, tai heräsi jotain kommentoitavaa, niin [ota yhteyttä](/yhteystiedot). Voin näin ollen lisätä tähän postaukseen asioita mitä ei itselleni tullut mieleen.
