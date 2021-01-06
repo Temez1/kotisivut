@@ -13,7 +13,7 @@ sections:
       Tai sitten voit vaan lukea esittelyni.
     actions:
       - label: Esittely
-        url: esittely
+        url: /esittely
         style: button
         icon_class: ''
         new_window: false
