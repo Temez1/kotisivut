@@ -78,5 +78,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/beige-spruce.jpeg
 template: advanced
 ---
