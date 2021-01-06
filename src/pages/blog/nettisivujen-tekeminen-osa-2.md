@@ -64,7 +64,7 @@ Tein videon, kuinka tämä käytännössä tapahtuu. [Katso video](https://youtu
 
 ## Loppusanat
 
-Kokemukseni Stackbitin käytöstä oli yllättävän sulava. Kaikki kriittiset toiminnot toimivat ja pienet säädöt sai säädettyä suhteellisen kivuttomasti. Stackbit Studion käytettävyys oli mielestäni erinomainen, vaikkakin jotkin asiat aiheuttivat aluksi hämmennystä. Kuten aiemmin mainitsemani Featured Imagen ja Alternative Featured Imagen ero. Tämäkin kuitenkin selvisi yrityksen ja erehdyksen kautta.
+Kokemukseni Stackbitin käytöstä oli yllättävän sulava. Kaikki kriittiset toiminnot toimivat ja pienet säädöt suhteellisen kivuttomia. Stackbit Studion käytettävyys oli mielestäni erinomainen, vaikkakin jotkin asiat aiheuttivat aluksi hämmennystä. Kuten aiemmin mainitsemani Featured Imagen ja Alternative Featured Imagen ero. Tämäkin kuitenkin selvisi yrityksen ja erehdyksen kautta.
 
 Mainittakoon vielä, että Stackbitin hinnoittelu on vielä epäselvää, mutta he ovat omien sanojensa mukaan luvanneet, että harrastelumeininkiin palvelu tulee pysymään ilmaisena.
 
