@@ -58,7 +58,7 @@ Lighthousen tulos pöytäkoneella
 
 ![Performance 99, Accessibility 93, Best Practices 93 ja SEO 100. Asteikolla nollasta sataan.](/images/lighthouse-desktop.png)
 
-## Oma domain eli verkkotunnus
+## Oma domain eli verkkotunnus (vapaaehtoinen)
 
 Mikäli haluat persoonallisen verkkotunnuksen, pitää sinun valitettavasti maksaa siitä. Se ei kuitenkaan paljoa maksa. Itse ostin omani 9€ vuosi hintaan [Domainhotellista](https://www.domainhotelli.fi/). Muista tarkistaa, että käyttämäsi domain on [ohjeiden](https://www.traficom.fi/fi/viestinta/fi-verkkotunnukset/millainen-hyva-verkkotunnus) mukainen, luultavasti on ellei joku ole rekisteröinyt haluamaasi verkkotunnusta esimerkiksi yrityksen nimenä. Tälläiset tapaukset ovat luultavasti harvinaisia.
 
