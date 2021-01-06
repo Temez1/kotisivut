@@ -50,7 +50,7 @@ Omiin tuloksiini olin tyytyväinen. Ei näitäkään kannata liikaa tuijotella, 
 
 Lighthousen tulos mobiililla
 
-![Lighthousen tulos mobiililla](/images/lighthouse-mobile.png)
+![Lighthousen tulos mobiililla. Perforamnce 90, Accessibility 94, Best Practices ](/images/lighthouse-mobile.png)
 
 Lighthousen tulos pöytäkoneella
 
