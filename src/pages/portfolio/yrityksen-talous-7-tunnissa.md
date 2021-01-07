@@ -8,7 +8,7 @@ date: '2020-11-24'
 template: project
 thumb_image: images/yrityksen-talous-7-tunnissa-thumb.png
 ---
-Tämän projektin tavoitteena oli tiivistää Olli Mannisen tuottaman yrityksen talouden kurssi seitsemään tuntiin. Projekti jäi kesken siinä mielessä, että luentoja ei saatu lisättyä Youtubeen yliopiston poliittisten linjausten takia. Asiaa sotki myös uudet [lakipykälät](https://www.finlex.fi/fi/laki/ajantasa/2019/20190306). Tällöin ne olisivat olleet kaiken kansan saatavilla ja aikaleimoja olisi ollut helpompi käyttää, mutta päättäjien mielestä näköjään mielummin ei.
+Tämän projektini tavoitteena oli tiivistää Olli Mannisen tuottaman yrityksen talouden kurssi seitsemään tuntiin. Projekti jäi kesken siinä mielessä, että luentoja ei saatu lisättyä Youtubeen yliopiston poliittisten linjausten takia. Asiaa sotki myös uudet [lakipykälät](https://www.finlex.fi/fi/laki/ajantasa/2019/20190306). Tällöin ne olisivat olleet kaiken kansan saatavilla ja aikaleimoja olisi ollut helpompi käyttää, mutta päättäjien mielestä näköjään mielummin ei.
 
 ### Projektin motiivit
 
