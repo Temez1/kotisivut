@@ -72,3 +72,5 @@ Mainittakoon, että Stackbitin hinnoittelu on vielä epäselvää, mutta he ovat
 
 Jokaiselle varmasti tulee joitakin ongelmia vastaan. Toivottavasti ei mitään ylitsepääsemätöntä mistä ei selviä googlen avulla.
 Mikäli näin on, tai heräsi jotain kommentoitavaa, niin [ota yhteyttä](/yhteystiedot). Voin näin ollen lisätä tähän postaukseen asioita mitä ei itselleni tullut mieleen.
+
+Tämän nettisivun lähdekoodin löydät [täältä](https://github.com/Temez1/kotisivut)
