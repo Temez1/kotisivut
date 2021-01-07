@@ -2,8 +2,8 @@
 title: Yrityksen talous 7 tunnissa
 subtitle: ''
 excerpt: >-
-  Sain idean tehdä pelin työnhakemisesta kun hain töitä. Pelin tarkoitus on
-  kerätä CV:n palaset yhteen voittaaksesi pelin.
+  Tiivistelmä TTA-31011 Yrityksen talous kurssista. Tavoitteena tiivistää
+  sisältö lyhyesti ja ytimekkäästi seitsemään tuntiin.
 date: '2019-12-19'
 template: project
 thumb_image: images/another-application-thumb.png
