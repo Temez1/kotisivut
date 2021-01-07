@@ -4,7 +4,7 @@ subtitle: ''
 excerpt: >-
   Tiivistelmä TTA-31011 Yrityksen talous kurssista. Tavoitteena tiivistää
   sisältö lyhyesti ja ytimekkäästi seitsemään tuntiin.
-date: '2020-12-19'
+date: '2020-12-08'
 template: project
 thumb_image: images/another-application-thumb.png
 image: images/another-application.png
