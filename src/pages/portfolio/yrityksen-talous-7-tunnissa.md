@@ -8,7 +8,7 @@ date: '2020-11-24'
 template: project
 thumb_image: images/yrityksen-talous-7-tunnissa-thumb.png
 ---
-Tämä projekti olis yritykseni tiivistää Olli Mannisen tuottaman yrityksen talouden kurssin seitsemään tuntiin. Projekti jäi kesken siinä mielessä, että luentoja 
+Tämä projekti oli yritykseni tiivistää Olli Mannisen tuottaman yrityksen talouden kurssin seitsemään tuntiin. Projekti jäi kesken siinä mielessä, että luentoja 
 
 Oletko koskaan toivonut, että kunpa kurssin X jokaisen luennon asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää Bayesin teoreeman?
 
