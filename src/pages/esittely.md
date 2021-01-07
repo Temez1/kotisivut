@@ -3,6 +3,29 @@ title: Esittely
 hide_title: false
 excerpt: 'Lyhyt historiani, sekä perustietoja minusta.'
 sections:
+  - title: Kuka?
+    section_id: kuka
+    subtitle: ''
+    content: >-
+      ![Omakuva](/images/omakuva.jpeg)
+
+
+      Olen 22-vuotias ja kotoisin Lempäälästä. Nykyään asun Hervannassa
+      kihlattuni kanssa. Opiskelen pääaineena ohjelmistotekniikkaa ja
+      sivuaineena teollisuustaloutta. Aikani kuluu pääosin koulutöiden ja
+      projektien parissa. Vapaa-ajallani pelaan ja urheilen.
+
+
+      Olen kiinnostunut monipuolisesti erilaisista asioista. Tämä näkyy niin
+      laajassa musiikkimaussani, kuin harrastamissani/kokeilemissani asioissa.
+      Sukeltaminen, benjihyppy, purjehtiminen, triathlon...
+
+
+      Olen intohimoinen asioista mistä olen kiinnostunut, panostan täysillä ja
+      saavutan määrätietoisesti ( tai kihlattuni mukaan jääräpäisesti)
+      tavoitteita. Projekteissa olen yhteistyökykyinen johtaja.
+    actions: []
+    type: section_content
   - title: Lyhyt Historiani
     section_id: lorem-ipsum
     subtitle: ''
@@ -62,28 +85,5 @@ sections:
         type: grid_item
         image: images/progress.png
     type: section_grid
-  - title: Kuka?
-    section_id: kuka
-    subtitle: ''
-    content: >-
-      ![Omakuva](/images/omakuva.jpeg)
-
-
-      Olen 22-vuotias ja kotoisin Lempäälästä. Nykyään asun Hervannassa
-      kihlattuni kanssa. Opiskelen pääaineena ohjelmistotekniikkaa ja
-      sivuaineena teollisuustaloutta. Aikani kuluu pääosin koulutöiden ja
-      projektien parissa. Vapaa-ajallani pelaan ja urheilen.
-
-
-      Olen kiinnostunut monipuolisesti erilaisista asioista. Tämä näkyy niin
-      laajassa musiikkimaussani, kuin harrastamissani/kokeilemissani asioissa.
-      Sukeltaminen, benjihyppy, purjehtiminen, triathlon...
-
-
-      Olen intohimoinen asioista mistä olen kiinnostunut, panostan täysillä ja
-      saavutan määrätietoisesti ( tai kihlattuni mukaan jääräpäisesti)
-      tavoitteita. Projekteissa olen yhteistyökykyinen johtaja.
-    actions: []
-    type: section_content
 template: advanced
 ---
