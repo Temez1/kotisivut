@@ -3,7 +3,7 @@ title: Esittely
 hide_title: false
 excerpt: 'Lyhyt historiani, sekä perustietoja minusta.'
 sections:
-  - title: Kuka?
+  - title: ''
     section_id: kuka
     subtitle: ''
     content: >-
