@@ -2,8 +2,8 @@
 title: Yrityksen talous 7 tunnissa
 subtitle: ''
 excerpt: >-
-  Tiivistelmä TTA-31011 Yrityksen talous kurssista. Tavoitteena tiivistää
-  sisältö lyhyesti ja ytimekkäästi seitsemään tuntiin.
+  Tämän projektin tavoitteena oli tiivistää Olli Mannisen tuottaman yrityksen
+  talouden kurssi seitsemään tuntiin.
 date: '2020-11-24'
 template: project
 thumb_image: images/yrityksen-talous-7-tunnissa-thumb.png
