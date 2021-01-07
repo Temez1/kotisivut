@@ -14,15 +14,15 @@ Tämä osa ryhtyy tuumasta toimeen. Käsiteltävänä on alkuun pääseminen, ne
 [Osa 1, Jodanto](/blog/nettisivujen-tekeminen-osa-1)
 
 ## Nettisivujen ["Hello world"](https://www.urbandictionary.com/define.php?term=hello%20world)
-Kuten aiemmassa osassa mainitsin Stackbit on kaiken yhdistävä palvelu, joka tarjoaa kaiken alusta loppuun nettisivujen tekemiseksi. Ei ole oikeastaan montaa asiaa, mitä jää edes itse tehtäväksi. Pakollisia vaiheita on kaksi.
+Kuten aiemmassa osassa mainitsin Stackbit on kaiken yhdistävä palvelu, joka tarjoaa kaiken alusta loppuun nettisivujen tekemiseksi. Ei ole oikeastaan montaa asiaa, mitä jää edes itse tehtäväksi. Pakollisia vaiheita on kaksi. Tein minuutin kestävän videon, miten aloitat nettisivujen luomisen [Stackbitin](https://www.stackbit.com/) avulla. [Katso video](https://youtu.be/QmkRRSNZtI4) 
 
 1. Valitse pohja/teema mistä lähdet rakentamaan sivuasi. Tämän sivun pohjaksi valitsin Stackbitin [Exto](https://themes.stackbit.com/demos/exto/) teeman.
 
 2. Keksi projektillesi sopiva nimi ja luo nettisivu. Tämän tekemiseksi sinun pitää kirjautua Stackbitin palveluun. Voit tehdä tämän esimerkiksi Google tunnuksillasi.
 
-Ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta. Tein minuutin kestävän videon, miten aloitat nettisivujen luomisen [Stackbitin](https://www.stackbit.com/) avulla. [Katso video](https://youtu.be/QmkRRSNZtI4) 
+Ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta.
 
-Sisällön muokkaaminen on siis todella helppoa ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Sitä tarvitsi lähinnä kuvien lisäämiseen tekstin sekaan, mikä toimii käytännössä syntaksilla
+Sisällön muokkaaminen on helppoa ja [markdown](https://en.wikipedia.org/wiki/Markdown) syntaksi oli itselleni ennestään tuttua. Sitä tarvitsi lähinnä kuvien lisäämiseen tekstin sekaan, mikä toimii käytännössä syntaksilla
 
 ```
 ![alt-text](/images/kuvannimi.png)
