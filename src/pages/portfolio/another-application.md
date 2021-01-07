@@ -13,4 +13,4 @@ image: images/another-application.png
 
 En tarkkaa muista milloin aloitin [Godot](https://godotengine.org/)-pelimoottorilla leikkimisen, mutta se oli varmaan samoihin aikoihin tai vähän ennen. Olin valmiiksi kiinnostunut pelien tekemisestä ja aikoinaan puoli vakavissaan harkinnut kyseistä uraa. En kuitenkaan ainakaan vielä ole päätynyt pelimaailmaan sen syvemmin muuta kuin kuluttajana :D
 
-Voit ladata pelin [Gitistä](https://github.com/Temez1/ohj3-projekti), unzipata ja aloittaa pelaamisen :)
+Voit ladata pelin [Gitistä](https://github.com/Temez1/ohj3-projekti), unzipata ja aloittaa pelaamisen.
