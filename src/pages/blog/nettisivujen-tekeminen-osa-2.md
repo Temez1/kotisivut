@@ -38,7 +38,7 @@ Vinkki nettisivujen suorituskyvyn parantamiseksi: pakkaa kuvasi ja pidä niiden 
 
 > Pakkaa kuvasi ja pidä niiden resoluutio järkevänä niiden näkyvään kokoon verrattuna.
 
-Kuvat ovat varmaan rajuin asia, millä voi tehdä hyvin hitaita sivuja. Tämä johtuu siitä, että ylisuurien kuvien lataaminen kestää pitkään, eikä niiden odottelu ole kovin mielekästä puuhaa. Nyrkkisääntönä tiedostomuodoille on: käytä muotoa .png kuville, joissa on suoria reunoja (esim. tällä sivustolla kuvankaappaukset, logot joissa tekstiä yms.) ja .jpg valokuville. Lisätietoa tiedostojen pakkaamisesta löydät esim. [täältä](https://fi.wikipedia.org/wiki/Tiedonpakkaus) ja jpg vs png [täältä](https://undsgn.com/jpg-vs-png/)
+Kuvat ovat varmaan rajuin asia, millä voi tehdä hyvin hitaita sivuja. Tämä johtuu siitä, että ylisuurien kuvien lataaminen kestää pitkään, eikä niiden odottelu ole kovin mielekästä puuhaa. Nyrkkisääntönä tiedostomuodoille on: käytä muotoa .png kuville, joissa on suoria reunoja (esim. tällä sivustolla kuvankaappaukset, logot joissa tekstiä yms.) ja .jpg valokuville. Lisätietoa tiedostojen pakkaamisesta löydät esim. [täältä](https://fi.wikipedia.org/wiki/Tiedonpakkaus) ja jpg vs png [täältä](https://undsgn.com/jpg-vs-png/).
 
 Tämän sivun pohjissa olikin valmiiksi jo paikat sekä pienelle esikatselukuvalle (eng. thumbnail), että itse artikkelin suuremmalle kuvalle. Eli alla olevassa kuvankaappauksessa näkyvät "Featured Image" (esikatselukuva) ja Alternative Featured Image (eli esimerkiksi portfolioni [projektin kuva](/portfolio/ohjelmointi-3/))
 
