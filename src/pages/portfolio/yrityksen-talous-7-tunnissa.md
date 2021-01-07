@@ -8,8 +8,12 @@ date: '2020-11-24'
 template: project
 thumb_image: images/yrityksen-talous-7-tunnissa-thumb.png
 ---
-***Another Application*** on peli, jonka tein ensimmäisenä portfolio-projektina ohjelmoinnnin osalta. Sain idean tehdä pelin työnhakemisesta kun hain töitä 2019 marras-joulukuussa. Pelin tarkoitus on kerätä CV:n palaset yhteen voittaaksesi pelin.
+Tämä projekti olis yritykseni tiivistää Olli Mannisen tuottaman yrityksen talouden kurssin seitsemään tuntiin. Projekti jäi kesken siinä mielessä, että luentoja 
 
-En tarkkaa muista milloin aloitin [Godot](https://godotengine.org/)-pelimoottorilla leikkimisen, mutta se oli varmaan samoihin aikoihin tai vähän ennen. Olin valmiiksi kiinnostunut pelien tekemisestä ja aikoinaan puoli vakavissaan harkinnut kyseistä uraa. En kuitenkaan ainakaan vielä ole päätynyt pelimaailmaan sen syvemmin muuta kuin kuluttajana :D
+Oletko koskaan toivonut, että kunpa kurssin X jokaisen luennon asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää Bayesin teoreeman?
 
-Voit ladata pelin [Gitistä](https://github.com/Temez1/ohj3-projekti), unzipata ja aloittaa pelaamisen.
+Tai edes jotain sinne päin?
+
+Monen kurssin luennot eivät ilmaise asiaa erityisen tiiviissä muodossa. Omasta mielestäni olisi siistiä, jos yliopisto voisi tiivistää luennot 20 minuutin youtube videoiksi. Moni voi ajatella toisinkin, mutta lopuille jotka haluavat oppia tehokkaasti tämä on pyrkimys, taloudellisin termein, nostaa opiskelijoiden tuottavuutta.
+
+Mainittakoon, että tämä on vielä toistaiseksi työn alla ja 7 tuntia oli vain heitto, mikä kuulostaa hyvältä (5h luentoihin, 2h harkkoihin). Tiivistelmä ei myöskään ole täysin kattava, vaan keskittyy omasta mielestäni olennaisimpiin asioihin tentti mielessä pitäen.
