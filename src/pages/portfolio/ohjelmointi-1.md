@@ -1,5 +1,5 @@
 ---
-title: Ohjelmointi 1projekti
+title: Ohjelmointi 1 projekti
 subtitle: ''
 excerpt: >-
   [***Texas Hold'em***](https://fi.wikipedia.org/wiki/Texas_hold_%E2%80%99em) on
