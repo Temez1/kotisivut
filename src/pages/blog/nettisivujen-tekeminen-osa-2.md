@@ -18,7 +18,7 @@ Kuten aiemmassa osassa mainitsin Stackbit on kaiken yhdistävä palvelu, joka ta
 
 1. Valitse pohja/teema mistä lähdet rakentamaan sivuasi. Tämän sivun pohjaksi valitsin Stackbitin [Exto](https://themes.stackbit.com/demos/exto/) teeman.
 
-2. Keksi projektillesi sopiva nimi ja luo nettisivu. Tämän tekemiseksi sinun pitää kirjautua Stackbitin palveluun. Voit tehdä tämän esimerkiksi Google tunnuksillasi.
+2. Keksi projektillesi sopiva nimi ja luo nettisivu. Tämän tekemiseksi sinun pitää kirjautua Stackbitin palveluun. Voit tehdä tämän esimerkiksi Google-tunnuksillasi.
 
 Ei ole tarvetta ymmärtää mitä konepellin alla tapahtuu ellei itseään kiinnosta.
 
