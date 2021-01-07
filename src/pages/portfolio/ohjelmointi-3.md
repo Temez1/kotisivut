@@ -1,7 +1,9 @@
 ---
 title: Ohjelmointi 3 Projekti
 subtitle: ''
-excerpt: ''
+excerpt: >-
+  Ohjelmointi 3 projekti. Projekti kesti 9 viikkoa. Harjoiteltiin mm. ketterää
+  ohjelmistokehitystä.
 date: '2020-11-25'
 template: project
 thumb_image: images/teekkarin-sekoilu-seikkailut-thumb.png
