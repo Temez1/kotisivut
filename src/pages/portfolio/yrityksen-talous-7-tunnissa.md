@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Yrityksen talous '
 subtitle: ''
 excerpt: >-
   Sain idean tehdä pelin työnhakemisesta kun hain töitä. Pelin tarkoitus on
