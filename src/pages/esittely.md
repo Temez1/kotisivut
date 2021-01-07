@@ -22,8 +22,8 @@ sections:
 
 
       Olen intohimoinen asioista mistä olen kiinnostunut, panostan täysillä ja
-      saavutan määrätietoisesti ( tai kihlattuni mukaan jääräpäisesti)
-      tavoitteita. Projekteissa olen yhteistyökykyinen johtaja.
+      saavutan määrätietoisesti tavoitteita. Projekteissa olen yhteistyökykyinen
+      johtaja.
     actions: []
     type: section_content
   - title: Lyhyt Historiani
