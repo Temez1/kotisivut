@@ -15,7 +15,7 @@ Työskentelyssä harjoiteltiin itsenäisesti **ketterää ohjelmistokehitystä**
 
 Trelloa käytettiin hyväksi **työskentelyn suunnitteluun ja työskentelyn seuraamiseen**. Tauluina olivat jokaiselle iteraatiolle TODO, DOING, DONE ja RETRO. Tämän lisäksi backlog oli omana taulunansa. Puolivälissä projektia tehtiin myös Possible Features taulu, johon listattiin ideoita mitä saatettiin ottaa backlogiin.
 
-**_[Linkki trelloon](https://trello.com/b/fkITJ1GB)_**, josta löytyy kollaasi jokaisen iteraation DONE ja RETRO tauluista ja tietysti myös tyhjä backlog. Bonuksena myös Possible Features taulu.
+**[Linkki trelloon](https://trello.com/b/fkITJ1GB)**, josta löytyy kollaasi jokaisen iteraation DONE ja RETRO tauluista ja tietysti myös tyhjä backlog. Bonuksena myös Possible Features taulu.
 
 **_Branchejä_** käytettiin hyväksi versionhallinnassa. Aluksi oli tapana tehdä oma bränchinsä jokaiselle uudelle ominaisuudelle, mutta ihan projektin viimeisellä viikolla ryhdyin käyttämään devT bränchiä, jossa tein ominaisuudet, jotka sitten mergettiin masteriin.
 
