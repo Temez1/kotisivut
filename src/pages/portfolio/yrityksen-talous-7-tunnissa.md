@@ -7,7 +7,6 @@ excerpt: >-
 date: '2020-11-24'
 template: project
 thumb_image: images/another-application-thumb.png
-image: images/another-application.png
 ---
 ***Another Application*** on peli, jonka tein ensimmäisenä portfolio-projektina ohjelmoinnnin osalta. Sain idean tehdä pelin työnhakemisesta kun hain töitä 2019 marras-joulukuussa. Pelin tarkoitus on kerätä CV:n palaset yhteen voittaaksesi pelin.
 
