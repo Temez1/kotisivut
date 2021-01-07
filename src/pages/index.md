@@ -24,7 +24,7 @@ sections:
     title: Viimeisimmät projektit
     subtitle: ''
     projects_number: 4
-    view_all_label: View All
+    view_all_label: Katso kaikki
     view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
