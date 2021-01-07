@@ -1,5 +1,5 @@
 ---
-title: Ohjelmointi 3 Projekti
+title: Ohjelmointi 3-projekti
 subtitle: ''
 excerpt: >-
   Ohjelmointi 3 projekti. Projekti kesti 9 viikkoa. Harjoiteltiin mm. ketterää
