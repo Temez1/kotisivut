@@ -18,4 +18,4 @@ Monen kurssin luennot eivät ilmaise asiaa erityisen tiiviissä muodossa. Omasta
 
 Mainittakoon, että tämä on vielä toistaiseksi työn alla ja 7 tuntia oli vain heitto, mikä kuulostaa hyvältä (5h luentoihin, 2h harkkoihin). Tiivistelmä ei myöskään ole täysin kattava, vaan keskittyy omasta mielestäni olennaisimpiin asioihin tentti mielessä pitäen.
 
-Koko projekti löytyy mistäs muualtakaan kuin [Gitistä](https://github.com/Temez1/Yrityksen-talous-7-tunnissa)
+Projekti löytyy [Gitistä](https://github.com/Temez1/Yrityksen-talous-7-tunnissa)
