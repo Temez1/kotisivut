@@ -23,7 +23,7 @@ sections:
     layout_style: mosaic
     title: Viimeisimmät projektit
     subtitle: ''
-    projects_number: 5
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - section_id: latest-posts
