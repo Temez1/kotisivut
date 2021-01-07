@@ -10,6 +10,8 @@ thumb_image: images/yrityksen-talous-7-tunnissa-thumb.png
 ---
 Tämän projektin tavoitteena oli tiivistää Olli Mannisen tuottaman yrityksen talouden kurssi seitsemään tuntiin. Projekti jäi kesken siinä mielessä, että luentoja ei saatu lisättyä Youtubeen. Tällöin ne olisivat olleet kaiken kansan saatavilla ja aikaleimoja olisi ollut helpompi käyttää.
 
+Esittely kanssaopiskelijoille suunnattuna:
+
 Oletko koskaan toivonut, että kunpa kurssin X jokaisen luennon asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää [Bayesin teoreeman](https://youtu.be/HZGCoVF3YvM)?
 
 Tai edes jotain sinne päin?
