@@ -17,11 +17,11 @@ Trelloa käytettiin hyväksi **työskentelyn suunnitteluun ja työskentelyn seur
 
 [Linkki trelloon](https://trello.com/b/fkITJ1GB), josta löytyy kollaasi jokaisen iteraation DONE ja RETRO tauluista ja tietysti myös tyhjä backlog. Bonuksena myös Possible Features taulu.
 
-**_Branchejä_** käytettiin hyväksi versionhallinnassa. Aluksi oli tapana tehdä oma bränchinsä jokaiselle uudelle ominaisuudelle, mutta ihan projektin viimeisellä viikolla ryhdyin käyttämään devT bränchiä, jossa tein ominaisuudet, jotka sitten mergettiin masteriin.
+**Branchejä** käytettiin hyväksi versionhallinnassa. Aluksi oli tapana tehdä oma bränchinsä jokaiselle uudelle ominaisuudelle, mutta ihan projektin viimeisellä viikolla ryhdyin käyttämään devT bränchiä, jossa tein ominaisuudet, jotka sitten mergettiin masteriin.
 
-Aluksi tehtiin **_prototyyppi_**, jossa vaatimuksina oli pelaajan liikkuminen pysäkiltä toisille bussien avulla. Ekat pari viikkoa tuli luettua dokumentaatiota lähinnä [Graphics Itemin](https://doc.qt.io/qt-5/qgraphicsitem.html) käytöstä [Graphics Scenen](https://doc.qt.io/qt-5/qgraphicsscene.html) kanssa.
+Aluksi tehtiin **prototyyppi**, jossa vaatimuksina oli pelaajan liikkuminen pysäkiltä toisille bussien avulla. Ekat pari viikkoa tuli luettua dokumentaatiota lähinnä [Graphics Itemin](https://doc.qt.io/qt-5/qgraphicsitem.html) käytöstä [Graphics Scenen](https://doc.qt.io/qt-5/qgraphicsscene.html) kanssa.
 
-Prototyypin jälkeen saatiin idea tehdä **_ruuankuljetuspeli_**, jota tehtiin viikko kerrallaan. Tavoitteena oli saada peruspeli valmiiksi.
+Prototyypin jälkeen saatiin idea tehdä **ruuankuljetuspeli**, jota tehtiin viikko kerrallaan. Tavoitteena oli saada peruspeli valmiiksi. Tämä myös saavutettiin :)
 
 Alla näkyy ohjelman luokkakaavio. Signaalit edustavat Qt:n [Signals & Slots](https://doc.qt.io/qt-5/signalsandslots.html) mekanismia.
 
