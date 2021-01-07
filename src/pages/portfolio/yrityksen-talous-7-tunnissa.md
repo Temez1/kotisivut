@@ -14,10 +14,6 @@ Tämän projektini tavoitteena oli tiivistää Olli Mannisen tuottaman yrityksen
 
 Motiivina oli oppia itse paremmin sekä auttaa kanssaopiskelijoita oppimaan.
 
-Oletko koskaan toivonut, että kunpa kurssin X jokaisen luennon asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää [Bayesin teoreeman](https://youtu.be/HZGCoVF3YvM)?
-
-Tai edes jotain sinne päin?
-
-Monen kurssin luennot eivät ilmaise asiaa erityisen tiiviissä muodossa. Omasta mielestäni olisi siistiä, jos yliopisto voisi tiivistää luennot 20 minuutin Youtube videoiksi. Moni voi ajatella toisinkin, mutta lopuille jotka haluavat oppia tehokkaasti tämä on pyrkimys, taloudellisin termein, nostaa opiskelijoiden tuottavuutta.
+Monen yliopisto kurssin luennot eivät ilmaise asiaa erityisen tiiviissä muodossa. Omasta mielestäni olisi siistiä, jos yliopisto voisi tiivistää luennot 20 minuutin Youtube videoiksi. Moni voi ajatella toisinkin, mutta lopuille jotka haluavat oppia tehokkaasti tämä on pyrkimys, taloudellisin termein, nostaa opiskelijoiden tuottavuutta.
 
 Projekti löytyy [Gitistä](https://github.com/Temez1/Yrityksen-talous-7-tunnissa).
