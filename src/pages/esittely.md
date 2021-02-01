@@ -6,11 +6,11 @@ sections:
   - title: ''
     section_id: kuka
     subtitle: ''
-    content: >-
+    content: >
       ![Omakuva](/images/omakuva.jpeg)
 
 
-      Olen 22-vuotias ja kotoisin Lempäälästä. Nykyään asun Hervannassa
+      Olen 23-vuotias ja kotoisin Lempäälästä. Nykyään asun Hervannassa
       kihlattuni kanssa. Opiskelen pääaineena ohjelmistotekniikkaa ja
       sivuaineena teollisuustaloutta. Aikani kuluu pääosin koulutöiden ja
       projektien parissa. Vapaa-ajallani pelaan ja urheilen.
