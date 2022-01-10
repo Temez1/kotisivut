@@ -11,9 +11,8 @@ sections:
 
 
       Olen 24-vuotias ja kotoisin Lempäälästä. Nykyään asun Hervannassa
-      kihlattuni kanssa. Opiskelen pääaineena ohjelmistotekniikkaa ja
-      sivuaineena teollisuustaloutta. Aikani kuluu pääosin koulutöiden ja
-      projektien parissa. Vapaa-ajallani pelaan ja urheilen.
+      kihlattuni kanssa. Koulutukseltani olen tietotekniikan kandidaatti. Aikani
+      kuluu EdTech startupin parissa. Vapaa-ajallani pelaan ja urheilen.
 
 
       Olen kiinnostunut monipuolisesti erilaisista asioista. Tämä näkyy niin
