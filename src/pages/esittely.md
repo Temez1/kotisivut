@@ -85,8 +85,7 @@ sections:
           opettajia & rehtoreita. Päädyin lopptulokseen, että personoinnin puute
           on koulujärjestelmämme suurin ongelma. Lähdin ratkaisemaan ongelmaa
           matematiikan opiskelun näkökulmasta ja näin syntyi MathFlow. Sovellus,
-          jossa jokainen opiskelija opiskelee matematiikkaa omaan taitotasoon
-          nähden.
+          jossa jokainen opiskelee matematiikkaa omaan taitotasoonsa nähden.
         actions: []
         type: grid_item
         image: images/mathflow.png
