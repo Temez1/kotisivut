@@ -83,7 +83,7 @@ sections:
           ohjelmistotekniikan kandidaatiksi.
         actions: []
         type: grid_item
-        image: images/progress.png
+        image: images/mathflow.png
     type: section_grid
 template: advanced
 ---
