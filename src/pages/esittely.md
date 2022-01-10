@@ -12,7 +12,8 @@ sections:
 
       Olen 24-vuotias ja kotoisin Lempäälästä. Nykyään asun Hervannassa
       kihlattuni kanssa. Koulutukseltani olen tietotekniikan kandidaatti. Aikani
-      kuluu EdTech startupin parissa. Vapaa-ajallani pelaan ja urheilen.
+      kuluu EdTech startupin parissa. Vapaa-ajallani pelaan, urheilen ja luen
+      kirjoja.
 
 
       Olen kiinnostunut monipuolisesti erilaisista asioista. Tämä näkyy niin
