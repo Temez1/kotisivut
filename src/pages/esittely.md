@@ -73,14 +73,10 @@ sections:
         type: grid_item
         image: images/nokia-logo.png
       - title: 2021-
-        content: >-
-          ## Valmistuminen, oma yritys
+        content: |
+          ## MathFlow
 
-
-          Tuleva vuosi tulee varmasti olemaan kiireinen niin kuin aiemmatkin.
-          Tavoitteena on lähteä tekemään omaa juttua eli suomeksi yritystä. Myös
-          kandin työ on tarkoitus kirjoittaa kevään aikana ja valmistua
-          ohjelmistotekniikan kandidaatiksi.
+           
         actions: []
         type: grid_item
         image: images/mathflow.png
