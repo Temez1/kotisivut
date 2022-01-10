@@ -81,9 +81,10 @@ sections:
           parempi hetki kuin koskaan. Mietin, missä voisin tehdä eniten
           kehitystä ja koulutus vaikutti lupaavalta suunnalta. Ajattelin, "12-18
           vuotta elämästä, kyllä me pystytään käyttämään tuo aika huomattavasti
-          paremmin". Vietin aikaa lukioissa seuraten koulunkäyntia ja päädyin
-          lopputulokseen, että oppimisen personoinnin puute on yksi
-          merkittävimpiä ongelmia meidän koulujärjestelmässä. 
+          paremmin". Seurasin koulunkäyntiä ja haastettelin opiskelijoita,
+          opettajia & rehtoreita. Päädyin lopptulokseen, että personoinnin puute
+          on koulujärjestelmämme suurin ongelma. Lähdin ratkaisemaan ongelmaa
+          matematiikan opiskelun näkökulmasta ja näin syntyi MathFlow.
         actions: []
         type: grid_item
         image: images/mathflow.png
