@@ -73,10 +73,17 @@ sections:
         type: grid_item
         image: images/nokia-logo.png
       - title: 2021-
-        content: |
+        content: >
           ## MathFlow
 
-           
+
+          Valmistumisen jälkeen halusin lähteä yrittäjäksi, koska nyt olisi
+          parempi hetki kuin koskaan. Mietin, missä voisin tehdä eniten
+          kehitystä ja koulutus vaikutti lupaavalta suunnalta. Ajattelin, "12-18
+          vuotta elämästä, kyllä me pystytään käyttämään tuo aika huomattavasti
+          paremmin". Vietin aikaa lukioissa seuraten koulunkäyntia ja päädyin
+          lopputulokseen, että oppimisen personoinnin puute on yksi
+          merkittävimpiä ongelmia meidän koulujärjestelmässä. 
         actions: []
         type: grid_item
         image: images/mathflow.png
