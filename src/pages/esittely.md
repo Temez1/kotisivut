@@ -85,7 +85,7 @@ sections:
           opettajia & rehtoreita. Päädyin lopptulokseen, että personoinnin puute
           on koulujärjestelmämme suurin ongelma. Lähdin ratkaisemaan ongelmaa
           matematiikan opiskelun näkökulmasta ja näin syntyi
-          [MathFlow](mathflow.app). Sovellus, jossa jokainen opiskelee
+          [MathFlow](http://mathflow.app/). Sovellus, jossa jokainen opiskelee
           matematiikkaa omaan taitotasoonsa nähden.
         actions: []
         type: grid_item
