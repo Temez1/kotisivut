@@ -10,7 +10,7 @@ const withPrefix = require("./src/utils/withPrefix").default;
 exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setHeadComponents([
-        
+        <script async src="https://cdn.volument.com/v1/volument.js" onload="volument('e42a09f725')"></script>
     ]);
 
     setPostBodyComponents([
