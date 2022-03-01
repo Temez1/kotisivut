@@ -6,7 +6,6 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
-        <script async src="https://cdn.volument.com/v1/volument.js" onload="volument('e42a09f725')"></script>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
